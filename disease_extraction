@@ -1,0 +1,317 @@
+import pandas as pd
+import torch
+from transformers import AutoTokenizer, AutoModelForTokenClassification, AutoModel
+from transformers import pipeline
+import json
+import os
+import time
+from tqdm import tqdm
+import re
+
+# Set up paths to match the project structure
+base_dir = os.getcwd()
+data_dir = os.path.join(base_dir, "Dataset", "data")
+output_dir = os.path.join(base_dir, "Dataset", "data")
+os.makedirs(output_dir, exist_ok=True)
+
+# Define a function to clean disease mentions
+def clean_disease(disease):
+    # Remove prepositions or trailing punctuation
+    disease = disease.strip().lower()
+    
+    # Remove leading prepositions
+    disease = re.sub(r'^(for|with|in|by|on|of|and|the|a|an)\s+', '', disease)
+    
+    # Remove trailing prepositions and conjunctions
+    disease = re.sub(r'\s+(for|with|in|by|on|of|and|the|a|an)$', '', disease)
+    
+    # Remove common stopwords anywhere in the text
+    disease = re.sub(r'\s+(is|are|was|were|been|be|as|at|from|to|in|with|for|by|on|of)\s+', ' ', disease)
+    
+    # Remove trailing commas and other punctuation
+    disease = re.sub(r'[^\w\s-]', '', disease)
+    
+    # Remove extra whitespace
+    disease = re.sub(r'\s+', ' ', disease).strip()
+    
+    return disease.strip().title()  # Normalize to Title Case
+
+print(f"Loading data from {data_dir}")
+
+# Load your input data with proper paths
+try:
+    df_train = pd.read_csv(os.path.join(data_dir, "train.csv"))
+    df_val = pd.read_csv(os.path.join(data_dir, "val.csv"))
+    
+    # Check if test.csv exists
+    test_path = os.path.join(data_dir, "test.csv")
+    if os.path.exists(test_path):
+        df_test = pd.read_csv(test_path)
+    else:
+        print("Warning: test.csv not found, proceeding without test data")
+        df_test = pd.DataFrame(columns=df_train.columns)
+    
+    df_all = pd.concat([df_train, df_val, df_test], ignore_index=True)
+    print(f"Loaded {len(df_all)} total abstracts")
+    
+    # Filter for cancer abstracts only if 'label' column exists
+    if 'label' in df_all.columns:
+        cancer_df = df_all[df_all['label'] == 1]  # Assuming 1 = cancer, 0 = non-cancer
+        print(f"Filtered {len(cancer_df)} cancer abstracts out of {len(df_all)} total")
+        df_all = cancer_df
+    else:
+        print("No 'label' column found. Will process all abstracts but filter for cancer keywords")
+
+except Exception as e:
+    print(f"Error loading data: {e}")
+    exit(1)
+
+# Load ClinicalBERT model and NER pipeline with error handling
+try:
+    print("Loading ClinicalBERT model...")
+    # Use ClinicalBERT model for clinical text processing
+    model_name = "emilyalsentzer/Bio_ClinicalBERT"
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    model = AutoModel.from_pretrained(model_name)
+    
+    # Set up NER pipeline with ClinicalBERT
+    print("Setting up specialized clinical entity recognition with ClinicalBERT...")
+    ner = pipeline("ner", 
+                  model=model_name, 
+                  tokenizer=tokenizer,
+                  aggregation_strategy="first")
+    print("ClinicalBERT model loaded successfully")
+except Exception as e:
+    print(f"Error loading ClinicalBERT model: {e}")
+    print("Trying alternative clinical model...")
+    try:
+        model_name = "bvanaken/clinical-assertion-negation-bert"
+        tokenizer = AutoTokenizer.from_pretrained(model_name)
+        model = AutoModel.from_pretrained(model_name)
+        ner = pipeline("ner", model=model_name, tokenizer=tokenizer, aggregation_strategy="first")
+        print("Alternative clinical model loaded successfully")
+    except Exception as e2:
+        print(f"Error loading alternative model: {e2}")
+        print("Falling back to biomedical NER model...")
+        try:
+            model_name = "d4data/biomedical-ner-all"
+            tokenizer = AutoTokenizer.from_pretrained(model_name)
+            model = AutoModelForTokenClassification.from_pretrained(model_name)
+            ner = pipeline("ner", model=model, tokenizer=tokenizer, aggregation_strategy="first")
+            print("Fallback model loaded successfully")
+        except Exception as e3:
+            print(f"Error loading fallback model: {e3}")
+            print("Make sure you have an internet connection or the model is cached locally")
+            exit(1)
+
+# Try to get labels from the model
+try:
+    all_labels = list(ner.model.config.id2label.values())
+    print(f"Available entity labels: {all_labels}")
+except:
+    # If we can't get labels directly, use common clinical entity types
+    print("Could not retrieve model labels directly, using predefined clinical entity types")
+    all_labels = ["DISEASE", "DISORDER", "SYNDROME", "PROBLEM", "DIAGNOSIS", "CONDITION", 
+                 "CANCER", "TUMOR", "FINDING", "SYMPTOM", "DRUG", "TREATMENT"]
+
+# Define cancer-specific labels and keywords
+disease_labels_lower = set([label.lower() for label in all_labels if any(
+    keyword in label.lower() for keyword in 
+    ["cancer", "tumor", "carcinoma", "neoplasm", "sarcoma", "malignant", "disease", "problem", "diagnosis", "finding"]
+)])
+# Add broad cancer categories in case we don't find specific ones
+if not disease_labels_lower:
+    disease_labels_lower = {"cancer", "tumor", "carcinoma", "neoplasm", "sarcoma", "malignant", "diagnosis", "disease"}
+print(f"Filtering for cancer-related entities with labels (case-insensitive): {disease_labels_lower}")
+
+# Convert disease labels to uppercase for consistent comparison
+disease_labels = {label.upper() for label in disease_labels_lower}
+
+# Define cancer-specific keywords for text-based extraction
+cancer_keywords = [
+    "cancer", "tumor", "carcinoma", "leukemia", "lymphoma", 
+    "sarcoma", "melanoma", "neoplasm", "malignancy", "metastasis",
+    "oncology", "carcinogenesis", "oncogene", "adenoma", "adenocarcinoma",
+    "glioma", "glioblastoma", "myeloma", "blastoma", "mesothelioma",
+    "malignant", "metastatic", "neoplastic", "cancerous"
+]
+
+# Compile regex patterns for cancer detection
+cancer_pattern = re.compile(r'\b(?:' + '|'.join(cancer_keywords) + r')\w*\b', re.IGNORECASE)
+
+# Function to check if abstract is cancer-related (for cases where no label column exists)
+def is_cancer_related(text):
+    if not text:
+        return False
+    
+    # Check for cancer keywords in the text
+    text_lower = text.lower()
+    return any(keyword in text_lower for keyword in cancer_keywords)
+
+# Extract cancer diseases with progress bar and error handling
+extracted = []
+print(f"Processing {len(df_all)} abstracts...")
+start_time = time.time()
+
+# Keep track of how many abstracts have diseases extracted
+abstracts_with_diseases = 0
+total_diseases_found = 0
+
+for i, row in tqdm(df_all.iterrows(), total=len(df_all)):
+    try:
+        abstract = str(row['abstract']) if pd.notna(row['abstract']) else ""
+        title = str(row['title']) if pd.notna(row.get('title')) else ""
+        
+        # Skip empty abstracts
+        if not abstract.strip():
+            continue
+        
+        # If no label column, filter for cancer-related content
+        if 'label' not in df_all.columns and not is_cancer_related(title) and not is_cancer_related(abstract):
+            # Skip abstracts that don't mention cancer
+            continue
+        
+        # Process in chunks if abstract is very long
+        # ClinicalBERT context length limit is 512
+        if len(abstract) > 512:
+            chunks = [abstract[i:i+512] for i in range(0, len(abstract), 512)]
+            all_entities = []
+            for chunk in chunks:
+                chunk_entities = ner(chunk)
+                all_entities.extend(chunk_entities)
+        else:
+            all_entities = ner(abstract)
+        
+        # Debug first few entities
+        if i == 0 and all_entities:
+            print("\nExample entity structure:")
+            print(all_entities[0])
+            print("\n")
+        
+        # Method 1: Extract cancer-related diseases based on entity labels
+        diseases_from_ner = set()
+        
+        # Apply the cleaning function and filter for multi-word disease terms
+        for entity in all_entities:
+            # Get entity group from the model output (different models may have different formats)
+            if isinstance(entity, dict):
+                entity_group = entity.get("entity_group", "").upper() if "entity_group" in entity else \
+                              entity.get("entity", "").upper() if "entity" in entity else ""
+                entity_word = entity.get("word", "") if "word" in entity else \
+                             entity.get("text", "") if "text" in entity else ""
+                
+                # Clean the disease name
+                if entity_group in disease_labels and entity_word:
+                    cleaned_disease = clean_disease(entity_word)
+                    if cleaned_disease:
+                        # Option to require multi-word diseases (uncomment the if statement to enable)
+                        # if len(cleaned_disease.split()) >= 2:
+                        diseases_from_ner.add(cleaned_disease)
+                
+                # Also check if the entity word itself contains cancer-related keywords
+                elif entity_word and any(keyword in entity_word.lower() for keyword in cancer_keywords):
+                    cleaned_disease = clean_disease(entity_word)
+                    if cleaned_disease:
+                        diseases_from_ner.add(cleaned_disease)
+        
+        # Method 2: Text-based extraction focusing on cancer
+        diseases_from_text = set()
+        # Search in title for cancer mentions
+        if title:
+            title_matches = cancer_pattern.findall(title)
+            for match in title_matches:
+                if len(match) > 3:  # Skip very short matches
+                    cleaned_match = clean_disease(match)
+                    if cleaned_match:
+                        diseases_from_text.add(cleaned_match)
+        
+        # Search in abstract with context
+        abstract_lower = abstract.lower()
+        for keyword in cancer_keywords:
+            if keyword in abstract_lower:
+                # Find all occurrences
+                start_pos = 0
+                while True:
+                    pos = abstract_lower.find(keyword, start_pos)
+                    if pos == -1:
+                        break
+                    
+                    # Get context (up to 20 chars before and after)
+                    context_start = max(0, pos - 20)
+                    context_end = min(len(abstract), pos + len(keyword) + 20)
+                    context = abstract[context_start:context_end]
+                    
+                    # Extract a clean disease mention using regex
+                    words = context.split()
+                    for j, word in enumerate(words):
+                        if keyword.lower() in word.lower():
+                            # Get a phrase of up to 3 words
+                            phrase_start = max(0, j-1)
+                            phrase_end = min(len(words), j+2)
+                            phrase = " ".join(words[phrase_start:phrase_end])
+                            cleaned_phrase = clean_disease(phrase)
+                            if cleaned_phrase:
+                                diseases_from_text.add(cleaned_phrase)
+                            break
+                    
+                    start_pos = pos + len(keyword)
+        
+        # Combine results from both methods
+        all_diseases = list(diseases_from_ner.union(diseases_from_text))
+        
+        # Filter to ensure we only include cancer-related diseases and require multi-word terms
+        cancer_diseases = []
+        for disease in all_diseases:
+            # Only include disease mentions that are likely cancer-related
+            if any(cancer_term in disease.lower() for cancer_term in cancer_keywords):
+                # Only include multi-word disease terms for better precision
+                if len(disease.split()) >= 2:
+                    cancer_diseases.append(disease)
+        
+        # Update statistics
+        if cancer_diseases:
+            abstracts_with_diseases += 1
+            total_diseases_found += len(cancer_diseases)
+        
+        # Add data source information
+        source = ""
+        if row['id'] in df_train['id'].values:
+            source = "train"
+        elif row['id'] in df_val['id'].values:
+            source = "validation"
+        elif row['id'] in df_test['id'].values:
+            source = "test"
+        
+        # Only include abstracts where we found cancer diseases
+        if cancer_diseases:
+            extracted.append({
+                "abstract_id": str(row['id']),
+                "data_source": source,
+                "extracted_diseases": cancer_diseases
+            })
+        
+        # Print occasional progress and examples
+        if (i+1) % 25 == 0:
+            elapsed = time.time() - start_time
+            rate = (i+1) / elapsed
+            print(f"Processed {i+1} abstracts ({rate:.2f} abstracts/sec)")
+            print(f"Found cancer diseases in {abstracts_with_diseases} abstracts so far")
+            if cancer_diseases:
+                print(f"Example: Abstract {row['id']} -> {cancer_diseases[:3]}" + ("..." if len(cancer_diseases) > 3 else ""))
+    
+    except Exception as e:
+        print(f"Error processing abstract {row['id']}: {e}")
+        continue  # Skip problematic abstracts
+
+# Save to a single combined JSON file with proper path
+output_file = os.path.join(output_dir, "cancer_extraction_combined.json")
+with open(output_file, "w") as f:
+    json.dump(extracted, f, indent=2)
+
+# Print final statistics
+print(f"\n✅ Processed {len(df_all)} abstracts, found cancer mentions in {len(extracted)}")
+print(f"✅ Found cancer diseases in {abstracts_with_diseases} abstracts")
+print(f"✅ Total cancer diseases extracted: {total_diseases_found} (avg {total_diseases_found / max(1, abstracts_with_diseases):.1f} per abstract with diseases)")
+print(f"✅ All cancer disease mentions saved to: {output_file}")
+print(f"✅ The combined file includes data source information (train/validation/test)")
+print(f"✅ Diseases were cleaned and filtered to include only multi-word cancer terms")

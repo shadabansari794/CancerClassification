@@ -1,0 +1,5991 @@
+[
+  {
+    "abstract_id": "36788105",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Glomus Tumors 59",
+      "Pericytic Tumors Such",
+      "Glomus Tumors As",
+      "9 Tumors",
+      "Glomus Tumors",
+      "Criteria Classifying Tumors",
+      "Glomus Tumors According",
+      "Tumor Family",
+      "Pericytic Tumor Family",
+      "And 9 Tumors",
+      "3 Tumors",
+      "Current World Health Organization Classification These Pericytic Tumors",
+      "Pericytic Tumors",
+      "Classifying Pericytic Tumors We",
+      "Tumors Members",
+      "E-Mutation-Positive Tumors Including",
+      "Classifying Tumors",
+      "Pericytic Tumors Are",
+      "Pericytic Tumors We",
+      "Pericytic Tumors Subclassified As",
+      "Pericytic Tumors Than",
+      "Variety Pericytic Tumors",
+      "12 Tumors",
+      "Pericytic Tumors Than Previously Reported",
+      "Pericytic Tumors Form"
+    ]
+  },
+  {
+    "abstract_id": "30885150",
+    "data_source": "train",
+    "extracted_diseases": [
+      "37 And Tumor Growth Survival",
+      "Paediatric Oncology Antagonism",
+      "Amplified Neuroblastoma May",
+      "Tumor Growth And A Favorable Survival",
+      "Tumor Growth",
+      "Neuroblastoma Cell",
+      "High-Risk Neuroblastoma",
+      "P 0 0379 A Kelly Neuroblastoma Xenografts",
+      "Neuroblastoma May Represent An Interesting",
+      "Oncology Antagonism Pro",
+      "Kelly Neuroblastoma Xenografts"
+    ]
+  },
+  {
+    "abstract_id": "30878600",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Egfr Oncogene Mutations",
+      "Cancer Nsclc",
+      "Lung Cancer Nsclc",
+      "Tumor Mutation",
+      "Mutations And Tumor Mutation Burden Tmb"
+    ]
+  },
+  {
+    "abstract_id": "31212687",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tumor Tissue",
+      "Paragangliomas Ppgl",
+      "Ppgl Tumor Tissues",
+      "This Panel Tumor",
+      "Molecular Tumor Testing",
+      "Neuroendocrine Tumors",
+      "Sporadic Tumor Development",
+      "Mutations Suggest Sporadic Tumor Development Our Results",
+      "To Tumor Samples",
+      "Patients Analyses 28 Ppgl Tumor Tissues Using"
+    ]
+  },
+  {
+    "abstract_id": "30911841",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Yonsei Cancer Center",
+      "Metastasis And Pd",
+      "Liver Metastasis",
+      "Cancer Nsclc",
+      "Subjects Adenocarcinoma Was",
+      "Status Metastatic Locations",
+      "Ion Status Metastatic Locations",
+      "Either Nivolumab Or Pembrolizumab Yonsei Cancer Center Korea Between",
+      "Adenocarcinoma Was",
+      "Lung Cancer Nsclc"
+    ]
+  },
+  {
+    "abstract_id": "31094905",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Nonamplified Congenital Neuroblastoma",
+      "Congenital Neuroblastoma",
+      "Large Comprehensive Cancer Panel",
+      "4S Neuroblastoma Following",
+      "Candidate Cancer Predisposition",
+      "Comprehensive Cancer Panel",
+      "Congenital Neuroblastoma This"
+    ]
+  },
+  {
+    "abstract_id": "31312279",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Incidence Urothelial Cancer Africa Over",
+      "Bladder Cancer",
+      "Bladder Cancer Nmibc",
+      "Bladder Cancer The Fourth Most Common Cancer",
+      "Are Squamous Cell Bladder Cancer",
+      "Prevent Tumor Recurrence",
+      "Bladder Tumor",
+      "High-Grade Tumors Are",
+      "All Cancer Cases",
+      "Bladder Tumor Turbt",
+      "Bladder Cancer Is",
+      "Men And The 11Th Most Common Cancer",
+      "Tumor Recurrence Which Include",
+      "Common Cancer",
+      "Grade Tumor T1",
+      "Urothelial Cancer",
+      "Bladder Cancers Are",
+      "Recurrence Rate Nevertheless Variant Histology Multiple Progressive And Recurrent High - Grade Tumors",
+      "High Grade Tumor T1 Tumors"
+    ]
+  },
+  {
+    "abstract_id": "30890403",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Braf Oncogene Are",
+      "Larger Tumor Size",
+      "Degree Malignancy",
+      "Thyroid Cancer Ptc",
+      "Oncogene Considered To",
+      "Ptc Tumors Fna",
+      "Papillary Thyroid Cancer",
+      "Ptc Tumors",
+      "Ptc Tumors P"
+    ]
+  },
+  {
+    "abstract_id": "36928584",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Higher Orr While Patients 14 30 Tumor",
+      "Trahepatic Cholangiocarcinoma Icc",
+      "Advanced Intrahepatic Cholangiocarcinoma",
+      "Tumor Area"
+    ]
+  },
+  {
+    "abstract_id": "36928082",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Metastatic Colorectal",
+      "Cancer Mcrc",
+      "Colorectal Cancer Mcrc"
+    ]
+  },
+  {
+    "abstract_id": "31277093",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Distant Metastasis To",
+      "As Sarcomatoid Carcinoma",
+      "Sarcomatoid Carcinoma Is",
+      "Sarcomatoid Carcinoma",
+      "Cell Carcinoma Scc",
+      "Sarcomatoid Carcinoma Arising",
+      "Distant Metastasis Was",
+      "Carcinoma Scc",
+      "Carcinoma Via",
+      "Rationale Sarcomatoid Carcinoma",
+      "Case Sarcomatoid",
+      "Sarcomatoid Carcinoma Via"
+    ]
+  },
+  {
+    "abstract_id": "36930678",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Impact Breast Cancer Remains Largely Unknown To",
+      "Metastasis The Developmental Process Epithelial",
+      "Cancer Metastasis",
+      "Diagnosis Or Treatment Cancers The Data And Code",
+      "Breast Cancer Metastasis",
+      "Breast Cancer Remains"
+    ]
+  },
+  {
+    "abstract_id": "36637703",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Lung Cancer Receiving"
+    ]
+  },
+  {
+    "abstract_id": "31208361",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Lesion And Recurrent Tumor",
+      "Tumor Tissues",
+      "Linear Tumor Evolution",
+      "Recurrent Tumor Was",
+      "Degree Malignancy Rapid Progression And Poor Prognosis",
+      "Sarcomatoid Carcinoma Sc",
+      "Sarcoma Interestingly",
+      "Tumor We",
+      "Sarcomatous Tumors",
+      "Pulmonary Sarcomatoid",
+      "Malignancy Rapid",
+      "Lung Cancer Containing",
+      "Pulmonary Sarcomatoid Carcinoma",
+      "416 Cancer - Relevant Genes",
+      "416 Cancer-Relevant Genes",
+      "Both Carcinomatous",
+      "Carcinoma Sc",
+      "Both Adenocarcinoma Adc",
+      "Evolution The Tumor We Also Identified",
+      "Diagnosed Stage Iiia Lung Cancer Containing"
+    ]
+  },
+  {
+    "abstract_id": "36930789",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Colorectal Cancer Crc",
+      "Colorectal Cancer",
+      "Colorectal Cancer Kras"
+    ]
+  },
+  {
+    "abstract_id": "31455365",
+    "data_source": "train",
+    "extracted_diseases": [
+      "These Tumors Is",
+      "Metastatic Tumor",
+      "Lung Adenocarcinoma Our",
+      "But The Primary Lung Adenocarcinoma Did Harbor",
+      "Metastatic Tumors",
+      "Lung Adenocarcinoma From",
+      "Study These Tumors Is",
+      "Five Tumors",
+      "Ovarian Tumors 1116",
+      "Lung Adenocarcinoma Are",
+      "Five Tumors 516",
+      "Metastatic Tumors From",
+      "Ovarian Metastasis From",
+      "Ovarian Tumors Within",
+      "Ovarian Metastatic Tumors Lung",
+      "Ovarian Metastasis",
+      "Lung Adenocarcinoma 5",
+      "Metastatic Tumor But",
+      "Lung Tumors",
+      "Ovarian Tumors",
+      "From Lung Adenocarcinoma",
+      "Lung Adenocarcinoma Did",
+      "Ovarian Metastatic Tumors",
+      "Metastatic Tumors Is"
+    ]
+  },
+  {
+    "abstract_id": "31452453",
+    "data_source": "train",
+    "extracted_diseases": [
+      "The Tumors",
+      "Nodal Metastasis",
+      "Three Tumors",
+      "Tumors Previously",
+      "Invasive Tumors Among",
+      "Tumor Genotype",
+      "Nodal Metastasis Which",
+      "Thyroid Neoplasm",
+      "Carcinomas Ptcs",
+      "Three Tumors Displayed",
+      "Spare A Carcinoma",
+      "Thyroid Carcinomas Ptcs",
+      "Carcinoma Diagnosis",
+      "Node Metastasis N1",
+      "D Tumor Genotype",
+      "Nodal Spread And Tumor Genotype",
+      "Tumor Also"
+    ]
+  },
+  {
+    "abstract_id": "31273176",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Inoperable Gastric Cancer Distant",
+      "Gastric Cancer Which",
+      "Node Metastasisct3N2M1 Lym",
+      "Cancer Which",
+      "Gastric Cancer"
+    ]
+  },
+  {
+    "abstract_id": "31220302",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Breast Cancer Bc",
+      "To Metastasis",
+      "Common Cancers Among",
+      "Breast Tumor Cells",
+      "Proliferation Breast Tumor Cells",
+      "Cancer Cells",
+      "One The Most Common Cancers Among Women Genetic Mutations",
+      "Cancer Bc"
+    ]
+  },
+  {
+    "abstract_id": "30928887",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Leukemia Cases",
+      "Myeloid Leukemia Cases"
+    ]
+  },
+  {
+    "abstract_id": "31530409",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tumor Was",
+      "Mesenchymal Neoplasms Pecomas",
+      "Tumor Mainly Composed",
+      "Mesenchymal Neoplasms",
+      "Neoplastic Cells",
+      "Cutaneous Melanoma Diagnostic",
+      "Hepatic Adenoma",
+      "Cell Tumors Pecomas"
+    ]
+  },
+  {
+    "abstract_id": "31217437",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cancer Vaccination",
+      "Presence High Tumor Burden Correlates",
+      "Abundance Activated Tumor",
+      "Activated Tumor Infiltrating",
+      "Tumor Growth",
+      "High Tumor Burden",
+      "Control Tumor Growth",
+      "Promising Tumor Antigens",
+      "Specific T Cells And Requires Concomitant Reversal Tumor Suppression Checkpoint Blockade",
+      "Tumor Suppression",
+      "Tumor Antigens",
+      "Large Tumors Gene",
+      "Tumors Gene Expression Profile Tumors"
+    ]
+  },
+  {
+    "abstract_id": "30971541",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Thyroid Neoplasms Subjects",
+      "Identification Papillary Carcinomas The Thyroid",
+      "Medullary Carcinoma Poorly",
+      "Thyroid Carcinoma Ftc",
+      "Thyroid Carcinoma Udtc",
+      "Thyroid Carcinoma Immunoreactivity",
+      "Follicular Adenoma Cases",
+      "Prognosis And Aggressive Tumor Behavior",
+      "Thyroid Cancers Are",
+      "Aggressive Tumor Behavior",
+      "Various Tumors Has Found Correlate",
+      "Medullary Carcinoma",
+      "Various Tumors Has",
+      "Thyroid Carcinoma Mtc",
+      "Most Common Malignancy",
+      "Thyroid Carcinoma Ptc",
+      "Papillary Carcinomas",
+      "29 Follicular Adenoma Fa",
+      "Follicular Adenoma Fa",
+      "Malignant Lesions",
+      "Thyroid Carcinoma Pdtc",
+      "Common Malignancy"
+    ]
+  },
+  {
+    "abstract_id": "30996350",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Not Only Enhances Tumour Progression And Metastasis",
+      "Exacerbate Tumorigenesis",
+      "Ductal Adenocarcinoma Pdac",
+      "Pdac Tumorigenesis8-10",
+      "Pdac Tumorigenesis",
+      "Tumorigenesis And Suggest Its",
+      "Modulating Cancer Cell",
+      "Cancer Therapy",
+      "Tumorigenesis8 - 10 And Activated",
+      "Metastasis But",
+      "Pancreatic Cancer Cells",
+      "Cancer Cells",
+      "Pancreatic Ductal Adenocarcinoma",
+      "Cancer Cells Pccs",
+      "Cancer Cell"
+    ]
+  },
+  {
+    "abstract_id": "31200400",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Maternal Tumor Disease",
+      "This Case The Diagnosis A Maternal Tumor Disease Made"
+    ]
+  },
+  {
+    "abstract_id": "31048490",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Mutations This High Mutational Burden Renders Tumors Immunogenic",
+      "Their Tumor Immunogenicity",
+      "Renders Tumors Immunogenic",
+      "Immune Checkpoint Inhibitors Yet Despite Their Tumor Immunogenicity Patients Mmr - Deficient Tumors Experience Highly Variable Responses",
+      "Human Cancers",
+      "Mmr-Deficient Tumors Experience",
+      "Mouse Tumors"
+    ]
+  },
+  {
+    "abstract_id": "30956778",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Variants That Influence Breast Cancer Susceptibility The Aim",
+      "Tp53-Mutated Tumors However",
+      "Breast Cancer",
+      "Breast Cancer Susceptibility",
+      "Mutated Tumors",
+      "Mdmx Snp31826 Er - Negative Tumors",
+      "Patients And Er - Positive Tumors",
+      "Breast Cancer Dependent",
+      "Status Regarding The Onset And Progression Breast Cancer Methods",
+      "Breast Cancers",
+      "Breast Cancer Dependent The Er",
+      "Breast Cancer Etiology",
+      "Breast Cancer Methods",
+      "Breast Cancer Patients",
+      "Tumors Was",
+      "Breast Cancer Etiology Genes Encoding",
+      "Er-Positive Tumors 532",
+      "Er-Negative Tumors Were"
+    ]
+  },
+  {
+    "abstract_id": "31333801",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Drive Oncogenesis",
+      "Lymphoblastic Leukemia All",
+      "Leukemia All"
+    ]
+  },
+  {
+    "abstract_id": "31309284",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cell Neoplasms Pecomas",
+      "Mesenchymal Neoplasms"
+    ]
+  },
+  {
+    "abstract_id": "31406244",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Are Fda Approved The First - Line Treatment Multiple Myeloma",
+      "Myc-Driven Neuroblastoma Cells",
+      "Mycn-Amplified Neuroblastomas Using",
+      "Neuroblastoma Predicts",
+      "Marked Tumor Suppression",
+      "Myc-Driven Cancers This",
+      "Tumor Suppression",
+      "Multiple Myeloma Emerge",
+      "Myc-Driven Neuroblastoma Patients",
+      "Neuroblastoma Patients",
+      "Driven Neuroblastoma",
+      "Neuroblastoma Predicts Poor Prognosis"
+    ]
+  },
+  {
+    "abstract_id": "31281146",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Lymphoma Cells",
+      "Lymphoma To",
+      "B-Cell Lymphoma",
+      "Non-Hodgkin Lymphoma",
+      "Adrenal Lymphoma Is",
+      "Marrow Examination Revealed The Involvement Lymphoma",
+      "Biopsy Tumor Cells",
+      "Which Diagnosed Ct - Guided Biopsy Tumor Cells Positive Cd20",
+      "Lymphoma Ivlbcl",
+      "B-Cell Lymphoma Ivlbcl",
+      "Lymphoma Is",
+      "Tumor Cells",
+      "Involvement Lymphoma",
+      "Gland Tumor Which",
+      "Subtype Lymphoma"
+    ]
+  },
+  {
+    "abstract_id": "36785917",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Screen-Detected Tumors",
+      "Ductal Adenocarcinoma Pdac",
+      "Developing Pancreatic Ductal Adenocarcinoma",
+      "And The Tumor Could Be",
+      "Ultrasound Data Collected The Resection Rate Screen - Detected Tumors And Survival",
+      "Tumor Could"
+    ]
+  },
+  {
+    "abstract_id": "30917048",
+    "data_source": "train",
+    "extracted_diseases": [
+      "This Tumor Exhibits",
+      "Pediatric Renal Tumors Improved Intensive",
+      "Uncommon Malignant Pediatric",
+      "Renal Neoplasms Often",
+      "Cell Sarcoma",
+      "Other Pediatric Renal Neoplasms Often Leading Confusion And Misdiagnosis",
+      "Renal Tumors Improved",
+      "Renal Neoplasm That",
+      "Uncommon Malignant Pediatric Renal Neoplasm",
+      "Tumor Exhibits",
+      "Marker Clear Cell Sarcoma The Kidney",
+      "Clear Cell Sarcoma"
+    ]
+  },
+  {
+    "abstract_id": "31037912",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Myeloid Leukemia Aml",
+      "Leukemia Aml"
+    ]
+  },
+  {
+    "abstract_id": "31583141",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Myeloid Leukemia Aml",
+      "Acute Myeloid Leukemia",
+      "Patient Presented Leukemia",
+      "Leukemia Cutis"
+    ]
+  },
+  {
+    "abstract_id": "31254135",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Midline Glioma H3",
+      "Tumor Was",
+      "Pediatric Glioma Our",
+      "Iv However The Tumor",
+      "Non-Diffuse Glioma",
+      "- Old Female Lateral Ventricular Glioma Harboring Both",
+      "Tumor Whereas",
+      "Ventricular Glioma Harboring"
+    ]
+  },
+  {
+    "abstract_id": "31247903",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Metastatic-Linked Protein",
+      "Cns Tumors Are",
+      "Affect Cancer Progression",
+      "Tumors Studies",
+      "Cns Tumors Studies",
+      "High Cns Tumors Identified",
+      "Agr2-Positive Cancer Cells",
+      "Cancer Progression And Identify Associated Potential Diagnostic Prognostic And Therapeutic",
+      "Cancer Survival Reported",
+      "Poor Cancer Survival"
+    ]
+  },
+  {
+    "abstract_id": "30953094",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Lung Carcinoma Nsclc",
+      "Viral Oncogene Homolog",
+      "Including Oncogenes And Tumour Suppressors",
+      "The V - Ki - Ras2 Kirsten Rat Sarcoma Viral",
+      "Oncogene Homolog",
+      "Including Oncogenes",
+      "Human Cancers Including",
+      "Carcinoma Nsclc",
+      "Rat Sarcoma Viral"
+    ]
+  },
+  {
+    "abstract_id": "31340433",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tumors Three",
+      "To Melanoma Progression",
+      "Pancreatic Ductal Adenocarcinoma Cells",
+      "Ductal Adenocarcinoma Cells",
+      "Gastric Cancer Prognosis",
+      "Gastric Cancer",
+      "Tumors Three Distinct Roles",
+      "Melanoma Progression"
+    ]
+  },
+  {
+    "abstract_id": "30943439",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Leukemia-Free Survival",
+      "Cancers Ccat",
+      "Various Types Cancers",
+      "Myeloid Leukemia",
+      "Myc Proto-Oncogene Implicated",
+      "Leukemia The Interplay Between Ccat Pvt1 And The Myc"
+    ]
+  },
+  {
+    "abstract_id": "36928336",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Soft Tissue Sarcomas",
+      "Tissue Sarcomas Sts"
+    ]
+  },
+  {
+    "abstract_id": "31577852",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Ovarian Carcinoma",
+      "Cancer Types"
+    ]
+  },
+  {
+    "abstract_id": "31278738",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Burkitt-Like Lymphoma",
+      "B-Cell Lymphomas Burkitt-Like",
+      "B-Cell Lymphomas Therapeutic",
+      "Tumor Progression",
+      "B-Cell Lymphoma",
+      "Evolution Tumor Progression",
+      "Lymphoid Neoplasms Methods",
+      "Natural Tumor Progression",
+      "B - Cell Lymphomas Burkitt -",
+      "Lymphomas Therapeutic Agents And Natural Tumor",
+      "Cell Lymphoma Large",
+      "Lymphomagenesis Progression And Acquired",
+      "Lymphomagenesis Progression"
+    ]
+  },
+  {
+    "abstract_id": "31448040",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Patient Multiple Hemorrhagic And Spontaneous Brain Lesions It Essential Obtain Informations Patient S History Melanoma",
+      "Department Melanoma Resection",
+      "Metastatic Melanoma",
+      "Metastatic Lesions",
+      "Metastatic Melanoma Develop",
+      "Melanoma Resection",
+      "Metastatic Lesions Observed"
+    ]
+  },
+  {
+    "abstract_id": "31597339",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tumor Tissue",
+      "Tumor Heterogeneity",
+      "Circulating Tumor Dna",
+      "Metastatic Colorectal",
+      "Cancer Mcrc",
+      "Colorectal Cancer Mcrc"
+    ]
+  },
+  {
+    "abstract_id": "31188177",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Reported Adenomas",
+      "As Adenomas She"
+    ]
+  },
+  {
+    "abstract_id": "30879681",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tumors It Proposed That",
+      "Their Antitumor Activities",
+      "Tumor-Burden Indicating",
+      "Tumors Leading",
+      "Cancer Immunotherapy",
+      "Into Tumors Leading",
+      "Tumors It",
+      "Targeted Tumors",
+      "Tumor - Burden Indicating",
+      "To Tumor Growth Inhibition Th",
+      "S-180 Tumor-Suppressing Ability",
+      "Intratumoral Injection"
+    ]
+  },
+  {
+    "abstract_id": "31077683",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Family History Leukemia",
+      "Acute Myeloid Leukemia",
+      "Myeloid Leukemia Aml"
+    ]
+  },
+  {
+    "abstract_id": "36929579",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Endometrioid Endometrial Cancer Eec",
+      "Endometrial Cancer Eec"
+    ]
+  },
+  {
+    "abstract_id": "31452761",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cancer Including",
+      "Colon Cancer Cell Lines",
+      "Colon Cancer Cell Proliferation",
+      "Similar Those The Tumor Suppressor Gene Btg1 The Mir",
+      "Expression Colon Cancer",
+      "Colorectal Cancer Crc",
+      "Colorectal Cancer",
+      "Paracancerous Tissues",
+      "Colon Cancer Several",
+      "Tumor Suppressor",
+      "Colon Cancer Cell"
+    ]
+  },
+  {
+    "abstract_id": "31416192",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Rat Sarcoma Kras",
+      "Oncogene Homolog B1",
+      "Capture Tumor Heterogeneity",
+      "Murine Sarcoma Viral",
+      "Viral Oncogene Homolog",
+      "Capture Tumor",
+      "Lung Cancer Nsclc",
+      "Sarcoma Viral"
+    ]
+  },
+  {
+    "abstract_id": "31347028",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tissue Samples Crc Tumors",
+      "Crc Tumors Comprising",
+      "Occurring Cancers Worldwide",
+      "Colorectal Cancer Crc",
+      "Oncogene Homolog",
+      "Viral Oncogene Homolog",
+      "Rat Sarcoma Viral",
+      "Sarcoma Viral"
+    ]
+  },
+  {
+    "abstract_id": "31013001",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Procedure Or Malignant Diagnosis Over The Course Patient Follow",
+      "Downgraded Cancer",
+      "Malignant Outcome",
+      "Or Malignant Diagnosis",
+      "High Risk Cancer",
+      "Without Malignancy 92",
+      "Malignancy Hr",
+      "Have Malignant Outcome",
+      "Malignancy Over",
+      "Had Malignancy Results",
+      "Cancer While",
+      "For Malignancy Hr",
+      "57 Probability Malignancy",
+      "Downgraded Cancer Risk",
+      "Bility Survival Without Malignancy",
+      "S Risk Malignancy"
+    ]
+  },
+  {
+    "abstract_id": "31032708",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Sarcomatoid Differentiation Has Never",
+      "Solid Tumor Panel",
+      "Poorly Differentiated Sarcomatoid",
+      "Extensive Sarcomatoid",
+      "Follicular Carcinoma",
+      "Extensive Sarcomatoid Differentiation",
+      "These Tumors",
+      "Carcinoma Of",
+      "Renal Malignancy",
+      "Differentiation And Metastatic Disease Presentation",
+      "Renal Malignancy That",
+      "This Tumor Mimics",
+      "Understood Sarcomatoid Differentiation",
+      "Metastatic Disease",
+      "Differentiated Sarcomatoid Component"
+    ]
+  },
+  {
+    "abstract_id": "31109360",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Extranodal Lymphoma Study",
+      "Shaped Tumor",
+      "Intracranial Tumor Defined",
+      "Bizarre-Shaped Tumor Cells",
+      "B-Cell Lymphoma Dlbcl",
+      "Lymphoma Dlbcl",
+      "Extranodal Lymphoma Study Group Ielsg"
+    ]
+  },
+  {
+    "abstract_id": "31587141",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Disease Cancer Risks",
+      "Reduce Cancer Risk",
+      "Reduce Cancer",
+      "Deficiency And Autoimmune Disease Cancer Risks"
+    ]
+  },
+  {
+    "abstract_id": "30968154",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Lung Adenocarcinoma",
+      "Alteration The Distribution Cancer Cells",
+      "Malignant Trait",
+      "Metastatic Traits",
+      "Breast Cancer Mda-Mb-231",
+      "Breast Cancer Cells",
+      "Earlier Tumor Onset",
+      "Mutated Tumor Suppressor",
+      "Demonstrated Earlier Tumor Onset",
+      "Human Cancer",
+      "Regard Invasive And Metastatic Traits The Expression",
+      "A Malignant",
+      "Lung Adenocarcinoma H1299",
+      "Lung Cancer Cells",
+      "Cancer Cells"
+    ]
+  },
+  {
+    "abstract_id": "31050834",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Into Leukemia",
+      "Leukemia Stem Cells",
+      "Myeloid Leukemia Aml",
+      "Acute Myeloid Leukemia",
+      "Tumor Burden Aml Cells",
+      "Leukemia Maintenance",
+      "Murine Leukemia Stem",
+      "Leukemia Maintenance Remain Unexplored",
+      "Tumor Burden",
+      "Family Has Shown Transform Normal Hematopoietic Progenitors Into Leukemia"
+    ]
+  },
+  {
+    "abstract_id": "31074748",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Malignant Cells",
+      "Cancer And Their Integration",
+      "Breast Cancer Cells",
+      "Light Into Higher Energy Emissions Allowing The Imaging And Detection Malignant Cells And The Simultaneous Energy Transfer",
+      "Breast Cancer Was",
+      "Her2 Positive Breast Cancer",
+      "Against Cancer"
+    ]
+  },
+  {
+    "abstract_id": "30875950",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cancer Australia And Globally",
+      "Circulating Cancer Stem",
+      "Neck Cancer Radiotherapy",
+      "Form Metastatic Deposits",
+      "Neck Cancer",
+      "Neck Cancer Is",
+      "Circulating Cancer Stem Cells",
+      "Common Cancer",
+      "Metastatic Deposits Or Even Re - Establish Themselves",
+      "60 Local Regional Recurrence And Or Distant Metastasis",
+      "Cancer These",
+      "Cancer Management",
+      "Neck Cancer Ctc",
+      "Distant Metastasis High-Resolution",
+      "Cancer These Cells More Aggressive And Accumulate Gene Alterations Somatic Mutations"
+    ]
+  },
+  {
+    "abstract_id": "31234577",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Mucosal Melanomas Mm",
+      "Oral Melanoma",
+      "Human Cancers Here",
+      "Human Cancers",
+      "Oncology Studies Melanomas",
+      "Cancer-Related Genes",
+      "Melanomas Mm",
+      "Canine Normaltumor Oral",
+      "Melanomas Although",
+      "Comparative Oncology Studies",
+      "Aggressive Cancers",
+      "Oral Cancers"
+    ]
+  },
+  {
+    "abstract_id": "31240697",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cancer Death",
+      "Cervical Cancer As",
+      "Cancer The Improvement Our Knowledge The Roles",
+      "This Cancer",
+      "Cervical Cancer May",
+      "Cancer Carcinogenesis",
+      "As Cancer Growing",
+      "Diagnosis Various Diseases Such Cancer Growing Up",
+      "Carcinogenesis And Progression Up",
+      "Multiple Cancers",
+      "Cervical Cancer Inhibition",
+      "Cervical Cancer Carcinogenesis",
+      "Recent Years Cervical Cancer One The Main Causes Cancer Death",
+      "Cervical Cancer May Lead New Transcription Therapeutic Appro",
+      "Cervical Cancer",
+      "Cervical Neoplasm"
+    ]
+  },
+  {
+    "abstract_id": "31171120",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Familial Adenomatous",
+      "5 10 All Colorectal Cancers These Inherited Syndromes Have",
+      "Hereditary Cancer Syndromes",
+      "Colorectal Cancers These",
+      "Colorectal Cancers",
+      "Familial Adenomatous Polyposis",
+      "Colorectal Cancer Depending",
+      "Hereditary Cancer Syndromes The Focus Will Be",
+      "Cancers And Polyposis"
+    ]
+  },
+  {
+    "abstract_id": "31404155",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Breast Cancer",
+      "25 The Total Cancer Cases",
+      "Total Cancer Cases",
+      "Breast Cancer Patients Collected",
+      "Breast Cancer Classification And The Possible Use",
+      "Breast Cancer Patients",
+      "118 Tumor Samples",
+      "Breast Cancer Is",
+      "Breast Cancer Classification",
+      "118 Tumor Samples From",
+      "Group Tumors"
+    ]
+  },
+  {
+    "abstract_id": "31602389",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Given Tumor Is",
+      "Metastatic Colorectal",
+      "Cancer Mcrc",
+      "Colorectal Cancer Mcrc",
+      "Her2 And Microsatellite Instability Status A Given Tumor Gaining Importance"
+    ]
+  },
+  {
+    "abstract_id": "30967556",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Precision Oncology Program",
+      "Bone Tumors"
+    ]
+  },
+  {
+    "abstract_id": "31193934",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Osteosarcoma Which",
+      "Primary Bone Cancer Bisulfite Sequencing",
+      "Bone Cancer Bisulfite",
+      "Osteosarcoma Prognosis",
+      "Osteosarcoma Chemoresistance"
+    ]
+  },
+  {
+    "abstract_id": "31171119",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Ovarian Cancer Conditions",
+      "Cancer Is",
+      "Breast-Ovarian Cancers High-Risk",
+      "Familial Adenomatous Polyposis",
+      "Colorectal Cancer",
+      "Frequent Cancer",
+      "Breast-Ovarian Cancer Syndromes",
+      "Cancer Being Two The Most",
+      "Frequent Cancer Types",
+      "Familial Adenomatous",
+      "Inherited Colorectal Cancer",
+      "Increased Risk Several Other Cancers",
+      "Breast-Ovarian Cancer Conditions",
+      "Colorectal Cancers",
+      "All Colorectal Cancers And Breast",
+      "N Cancers",
+      "Ovarian Cancers High -",
+      "Breast-Ovarian Cancers Depending",
+      "L Cancer",
+      "Other Cancers Compared"
+    ]
+  },
+  {
+    "abstract_id": "31428516",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Ovarian Cancer Oc",
+      "Noncancerous Control",
+      "First-Line Tumor Treatment",
+      "Other Cancers",
+      "Selected Tumor-Specific Antigens",
+      "Tumor - Associated",
+      "Cancers And 50 Without Cancer",
+      "Response A First - Line Tumor Treatment Platinum - Based Chemotherapy",
+      "Tumor-Associated Ta",
+      "Tumor-Specific Antigen",
+      "Cancer And Noncancerous Control Finally The Selected Antigens Validated",
+      "Tumor - Specific",
+      "Without Cancer"
+    ]
+  },
+  {
+    "abstract_id": "30973434",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Diagnosed Cancer"
+    ]
+  },
+  {
+    "abstract_id": "31569934",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tumor Tissue",
+      "Course Malignant Transformation Through",
+      "Skin Cancer Compared",
+      "Carcinoma Of",
+      "Degrees Malignancy",
+      "Spectrum Facultative Precancerous Conditions",
+      "Cancer Compared To",
+      "Malignant Transformation",
+      "Through Cancer Stage",
+      "Carcinogenesis The Transformation",
+      "Malignant Skin",
+      "G308A Tumor Tissue",
+      "Malignancy Materials",
+      "Facultative Precancerous Conditions",
+      "Cell Carcinoma",
+      "Cell Carcinoma According",
+      "Tumor Invasion",
+      "Tumor Suppressor",
+      "Cell Carcinoma Other",
+      "Cancer Stage"
+    ]
+  },
+  {
+    "abstract_id": "31028214",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Determine The Rate Clinically Significant Prostate Cancer Cspca",
+      "Prostate Cancer Cspca"
+    ]
+  },
+  {
+    "abstract_id": "31341686",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Vascular Neoplasms As",
+      "Neoplasms Well Carcinoma",
+      "This Tumor Exhibits",
+      "Mimicking Angiosarcoma Or",
+      "Vascular Tumor That",
+      "Lung This Tumor Exhibits Epithelioid Morphology It Frequently Causes Diagnostic Confusion",
+      "This Tumor",
+      "This Tumor May",
+      "These Tumors",
+      "As Carcinoma While",
+      "Tfe3-Rearranged Tumors Finally",
+      "Tumors Cells",
+      "Unlike Classic Ehe And Mimicking Angiosarcoma Or Epithelioid Hemangioma The Tumors",
+      "Low-Grade Malignant Vascular",
+      "Tumors Finally"
+    ]
+  },
+  {
+    "abstract_id": "31216696",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cell Leukemia Have",
+      "Hematopoietic Neoplasm Defined",
+      "Cell Tumors",
+      "Hematologic Neoplasm Such",
+      "Mast Cell Tumors",
+      "Cell Neoplasms Including",
+      "Leukemia Have A Poor Prognosis Short Survival Times",
+      "Hematopoietic Neoplasm",
+      "Leukemia May Detected",
+      "Myeloid Leukemia May",
+      "These Patients Multiple Somatic Mutations And Or An Associated Hematologic Neoplasm"
+    ]
+  },
+  {
+    "abstract_id": "31539535",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Lscc Tumors Important",
+      "Breast Cancer",
+      "Breast Cancer We",
+      "Lscc Tumor Growth",
+      "Carcinoma Lscc",
+      "Tumorigenic Modulator",
+      "Cell Carcinoma Lscc",
+      "Lscc Tumors Are",
+      "As A Tumorigenic"
+    ]
+  },
+  {
+    "abstract_id": "31350202",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Trusight Cancer Frameshift Nonsense And Known Deleterious Mutations Wer",
+      "Trusight Cancer Frameshift",
+      "Cancer Ca"
+    ]
+  },
+  {
+    "abstract_id": "31177117",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Neoplastic Progression",
+      "Leukemia Cll",
+      "Lymphocytic Leukemia Cll"
+    ]
+  },
+  {
+    "abstract_id": "30927944",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Had Tumors More",
+      "Analysis Tumor Location",
+      "Rectal Adenocarcinoma Genome",
+      "Node Metastasis Was",
+      "Had Tumors",
+      "Rectal Adenocarcinoma At",
+      "Tumor Location",
+      "Metastasis Significantly Associated Brca2 P",
+      "Cluster C1 Had Tumors"
+    ]
+  },
+  {
+    "abstract_id": "31033100",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cancer Nsclc",
+      "Some Anti-Tumor Agents",
+      "Lung Cancer Nsclc"
+    ]
+  },
+  {
+    "abstract_id": "30900388",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Wilms Tumor Gene",
+      "Myeloid Leukemia Aml",
+      "Wilms Tumor",
+      "Leukemia Aml"
+    ]
+  },
+  {
+    "abstract_id": "31230400",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Carcinoma Pdtc",
+      "Thyroid Carcinoma-Related Genes",
+      "Thyroid Carcinoma Ptc",
+      "Carcinoma Atc",
+      "Thyroid Carcinoma Pdtc",
+      "Carcinoma Ptc",
+      "Thyroid Carcinoma Atc"
+    ]
+  },
+  {
+    "abstract_id": "31322508",
+    "data_source": "train",
+    "extracted_diseases": [
+      "From Malignant Serous",
+      "Carcinomas And Benign",
+      "Ovarian Tumors Bots",
+      "Benign Cystadenomas Whilst",
+      "Serous Cystadenoma Group",
+      "To Benign Cystadenomas",
+      "Serous Carcinomas Altogether",
+      "Malignant Carcinomas",
+      "From Malignant Serous Carcinomas",
+      "Serous Carcinomas Were",
+      "Benign Cystadenomas",
+      "To Serous Cystadenomas",
+      "Serous Carcinomas P53",
+      "Serous Cystadenomas",
+      "Serous Carcinomas",
+      "Borderline Tumors",
+      "Serous Cystadenoma",
+      "Borderline Tumors Compared"
+    ]
+  },
+  {
+    "abstract_id": "31515871",
+    "data_source": "train",
+    "extracted_diseases": [
+      "- Rearranged Leukemia",
+      "Nutm1-Rearranged Leukemia",
+      "Lymphoblastic Leukemias All",
+      "Acute Lymphoblastic Leukemias"
+    ]
+  },
+  {
+    "abstract_id": "31248416",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Colorectal Cancer Crc",
+      "Inherited Cancer Predisposition",
+      "Oncogenetic Counseling",
+      "Cancer Crc"
+    ]
+  },
+  {
+    "abstract_id": "31331345",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tumor Tissue",
+      "Anticancer Therapy",
+      "Cancer Genome",
+      "Msi-H Tumors Remains",
+      "The Cancer Genome",
+      "Cancer Crc",
+      "H Tumors Remains Poorly Understood",
+      "Colorectal Cancer Crc",
+      "H Tumors",
+      "Msi-H Tumors Is"
+    ]
+  },
+  {
+    "abstract_id": "36841906",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Initial Glioma",
+      "Idh-Wildtype Glioblastoma Patients",
+      "Longer Interval Between Initial Glioma And Lm Diagnoses",
+      "Glioma Patients 88",
+      "4 Glioma Patients",
+      "Adult Glioma Patients",
+      "Idh-Wildtype Glioblastoma Active",
+      "Glioblastoma Active Chemotherapy",
+      "Initial Glioma Diagnosis",
+      "Glioma Patients"
+    ]
+  },
+  {
+    "abstract_id": "31334571",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Bone Tumor",
+      "Nut Carcinoma Also Observed",
+      "Pulmonary Nut Carcinoma The Fusion",
+      "Present A Primary Mandible Bone Tumor Of",
+      "Metastatic Disease Status",
+      "This Tumor Suggesting",
+      "These Tumors Often",
+      "Carcinoma Still Uncertain",
+      "Aggressive Tumor That",
+      "Grade Malignant Epithelioid",
+      "Non-Metastatic Disease",
+      "Nut Carcinoma Is",
+      "Nut Carcinoma Was",
+      "Carcinoma An Aggressive Tumor That",
+      "Rare Tumors From",
+      "Nut Carcinoma",
+      "Malignant Epithelioid To",
+      "Tumor Suggesting A Possible Common Pathogenetic Mechanism And Potential Treatment Target"
+    ]
+  },
+  {
+    "abstract_id": "31372496",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tumor Characteristics",
+      "Breast Cancer",
+      "Breast Cancer We",
+      "Other Tumor Subtypes",
+      "Like Breast Cancer",
+      "Early-Onset Tumors High",
+      "Aggressive Tumor Characteristics",
+      "Breast Cancer Subtypes",
+      "Breast Cancer Subtype"
+    ]
+  },
+  {
+    "abstract_id": "30878128",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tumor Cells",
+      "Because Tumor Cells",
+      "Lung Cancer Nsclc"
+    ]
+  },
+  {
+    "abstract_id": "30962859",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Breast Cancer Bc",
+      "Breast Cancer",
+      "Cancer Predisposing",
+      "Hereditary Cancer Genetic",
+      "Cancer Network Early Bc",
+      "Patients Undergoing Hereditary Cancer",
+      "Breast Cancer Risk",
+      "A Cancer",
+      "Comprehensive Cancer Network"
+    ]
+  },
+  {
+    "abstract_id": "30923996",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Malt Lymphoma Resulting",
+      "Malt Lymphoma Evaluating",
+      "Malt Lymphoma Shows",
+      "T 11 18 - Positive Malt Lymphoma Suggesting That It",
+      "Malt Lymphoma Showed",
+      "It Known That T 11 18 - Positive Malt Lymphoma",
+      "Malt Lymphoma Suggesting",
+      "Malt Lymphoma"
+    ]
+  },
+  {
+    "abstract_id": "31208696",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cholangiocarcinoma Cca",
+      "Tumor Microenvironments",
+      "These Tumors",
+      "Biliary Tumor Epigenomes",
+      "Prominent Tumor Microenvironments",
+      "These Tumors However",
+      "Characterized Biliary Tumor",
+      "Biliary Tumors",
+      "Biliary Tumors Including"
+    ]
+  },
+  {
+    "abstract_id": "31115156",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Other Neuroblastoma Risk",
+      "Neuroblastoma Risk",
+      "Using The International Neuroblastoma Risk",
+      "International Neuroblastoma Risk"
+    ]
+  },
+  {
+    "abstract_id": "36210645",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tumor Diameter The First",
+      "Maximum Tumor Diameter",
+      "Tumor Location",
+      "Considers The Tumor Location Even"
+    ]
+  },
+  {
+    "abstract_id": "31124195",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Gastric Tumor",
+      "- Deficient Tumors",
+      "Sdh-Deficient Tumors Develop",
+      "Stromal Tumors Gist",
+      "Tumor Is",
+      "Mutations The Tumor Is",
+      "85 Gastrointestinal Stromal Tumors Gist"
+    ]
+  },
+  {
+    "abstract_id": "31555790",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Circulating Cancer Biomarkers We Examine",
+      "Analysis Circulating Cancer",
+      "Tumor Dna Circulating Tumor Cells Microrna And Exosomes",
+      "Circulating Cancer Biomarkers",
+      "Revolutionizing Cancer Diagnosis",
+      "Circulating Tumor Dna",
+      "Circulating Tumor Cells"
+    ]
+  },
+  {
+    "abstract_id": "31182949",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Benefit Conventional Braf Inhibitors Patients Braf K601E Mutated Melanoma",
+      "Mutated Melanoma",
+      "05 Melanoma Cases",
+      "Melanoma Patient",
+      "Consecutive Melanoma Patients",
+      "Tumor Response",
+      "Melanoma Cases The Data"
+    ]
+  },
+  {
+    "abstract_id": "36823302",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Nonenhancing Gliomas Following",
+      "Tumor 2 - Hg Concentrations",
+      "Tumor Tissue",
+      "Decreased Tumor Cell",
+      "Surgery Tumor 2-Hg",
+      "Gliomas Foll",
+      "Glioma We Evaluated Both",
+      "Measured Tumor Tissue 49",
+      "Midh Glioma We",
+      "- Grade Glioma Igg",
+      "Low-Grade Glioma Igg"
+    ]
+  },
+  {
+    "abstract_id": "31266596",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Renal Neoplasms",
+      "Renal Cell Neoplasms",
+      "Cell Carcinoma Smooth",
+      "Renal Cancers Appear To",
+      "Renal Cell Carcinoma May Cause Diagnostic Challenges",
+      "Cell Carcinomas",
+      "Epithelial Cysts Renal Cell Carcinoma",
+      "Sarcomatoid Renal",
+      "Cell Carcinoma It",
+      "Renal Angiomyoadenomatous Tumour",
+      "Renal Neoplasms Such",
+      "Cell Carcinoma Owing",
+      "Cell Neoplasms Contains",
+      "To The Substantial Similarity Their Immunohistochemical Phenotypes The Term Renal Angiomyoadenomatous Tumour Has Used Some Authors",
+      "Cell Carcinoma",
+      "Cell Carcinoma May",
+      "Renal Cell Carcinoma",
+      "Renal Cancers Appear"
+    ]
+  },
+  {
+    "abstract_id": "36929402",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Ii Adenocarcinoma Ad",
+      "Anaplastic Lymphoma Kinase",
+      "Anaplastic Lymphoma",
+      "Treatment Non - Small Cell Lung Cancer",
+      "Any Anticancer Treatment",
+      "Lung Cancer Nsclc"
+    ]
+  },
+  {
+    "abstract_id": "31047032",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Esophageal Cancer",
+      "Cancer Are",
+      "Review Data The Cancer Genome",
+      "Gastric Cancer They",
+      "Esophageal Carcinoma",
+      "Cancer Genome",
+      "Basis Esophageal Cancer And Future Directions",
+      "Stratification And Classification Esophageal Carcinoma",
+      "Ction Circulating Tumor Dna Finally The Authors Summarize",
+      "Cancer They Also",
+      "Cancer-Related Mortality",
+      "Circulating Tumor Dna",
+      "Gastric Cancer",
+      "Esophageal Adenocarcinoma They",
+      "Profiling Tumor Microenvironment",
+      "Tumor Microenvironment",
+      "Causes Cancer - Related Mortality Worldwide"
+    ]
+  },
+  {
+    "abstract_id": "31216739",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Hamartoma Tumor Syndrome",
+      "Comprehensive Cancer Network",
+      "National Comprehensive Cancer Network",
+      "Tumor Syndrome Phts"
+    ]
+  },
+  {
+    "abstract_id": "30990879",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Low-Grade Gliomas N",
+      "Non-Midline Gliomas N",
+      "Midline Gliomas",
+      "Tumor-Associated Antigen",
+      "Pediatric Cns Tumors",
+      "Cns Cancers Standard Treatment Considered",
+      "Deadly Tumors Comprising",
+      "Non - Midline Gliomas",
+      "Grade Gliomas",
+      "High-Grade Gliomas",
+      "Identify Tumor-Specific Antigens",
+      "Pontine Gliomas Dipgs",
+      "Are Deadly Tumors",
+      "Cns Cancers Standard",
+      "Wilms Tumor Protein",
+      "Tumor - Specific",
+      "Cns Tumors N"
+    ]
+  },
+  {
+    "abstract_id": "31491579",
+    "data_source": "train",
+    "extracted_diseases": [
+      "The Tumor",
+      "Tumors But",
+      "Tumor Was",
+      "Carcinomas Have Previously",
+      "Multitude Tumors",
+      "A Cancer",
+      "Undifferentiated Carcinoma",
+      "Local Tumor Recurrence",
+      "Sellar Carcinomas Have",
+      "Cancer-Predisposing Condit",
+      "Tumor Recurrence"
+    ]
+  },
+  {
+    "abstract_id": "31101557",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Colorectal Cancer Crc"
+    ]
+  },
+  {
+    "abstract_id": "31183193",
+    "data_source": "train",
+    "extracted_diseases": [
+      "As Adenocarcinoma Were",
+      "Cancer Progression Through",
+      "Colorectal Cancer Crc",
+      "1111 Tumors",
+      "Tumor Size",
+      "Colon Tumors P",
+      "Crc Tumorigenesis Is",
+      "Patients And Tumor Clinicopathological Characteristics Retr",
+      "Tumor Samples",
+      "Enhance Cancer Progression",
+      "Differentiated Tumors Conclusions",
+      "Orly-Differentiated Tumors P0023",
+      "Tumors P",
+      "Crc Tumor Samples",
+      "Tumor Clinicopathological",
+      "Colon Tumors P0014",
+      "Diagnosed Adenocarcinoma Prospectively",
+      "Node Metastasis"
+    ]
+  },
+  {
+    "abstract_id": "30963251",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Neoplastic Disease",
+      "Cns Tumors",
+      "Variety Non - Neoplastic",
+      "Diffuse Gliomas Subsets",
+      "Associated Tumors",
+      "Nf1-Associated Tumors Including",
+      "Cns Neoplasms",
+      "Tumorigenesis Throughout",
+      "Setting Nf1 Versus Sporadic Tumors",
+      "Neoplasms Well The Role The Timing Of",
+      "Neoplasms As",
+      "Sporadic Tumors",
+      "Non-Neoplastic Structural",
+      "Pathways Gliomas"
+    ]
+  },
+  {
+    "abstract_id": "31083180",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Burkitt Lymphoma",
+      "Third Most Common Cancer Among Children",
+      "Atment Such Tumor May Improve Prognosis",
+      "Lymphoma Rare",
+      "Tumor Should Considered Early Diagnosis And Adequate Tre",
+      "Ultrasonography Tumor Cells",
+      "Common Cancer Among",
+      "Hydrops Abdominis Detected Abdominal Ultrasonography Tumor Cells Found Pathological Examination Peritoneal Effusion",
+      "Tumor Should",
+      "Introduction Lymphoma Is",
+      "Such Tumor May",
+      "Lymphoma Are",
+      "Lymphoma And Hemophilia B"
+    ]
+  },
+  {
+    "abstract_id": "31189972",
+    "data_source": "train",
+    "extracted_diseases": [
+      "To Discriminating Tumors",
+      "Breast Cancer",
+      "Possible Metastatic Spread",
+      "Orthotopic Murine Breast Cancer",
+      "Early Detection Breast Cancer Well The Identification Possible Metastatic Spread Poses A Significant Challenge",
+      "Breast Cancer Diagnosis",
+      "Breast Cancer Model",
+      "Breast Cancer As",
+      "Breast Cancer Is",
+      "Breast Cancer Tissues",
+      "Variety Other Malignant Growths",
+      "To Their Ability Target Breast Cancer",
+      "Malignant Growth",
+      "Discriminating Tumors",
+      "Other Malignant Growths"
+    ]
+  },
+  {
+    "abstract_id": "31062729",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Breast Cancer Diagnosed",
+      "Her2 Neu Equivocal Breast Cancer Diagnosed",
+      "Neu Ihc Equivocal Breast Cancer",
+      "Breast Carcinoma",
+      "Breast Cancer Were"
+    ]
+  },
+  {
+    "abstract_id": "30895567",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Myeloproliferative Neoplasm It",
+      "Myeloproliferative Neoplasms Including",
+      "Neoplasms Including"
+    ]
+  },
+  {
+    "abstract_id": "31264352",
+    "data_source": "train",
+    "extracted_diseases": [
+      "The Veterinary Cancer Society",
+      "Veterinary Cancer",
+      "Oncology-Pathology Working",
+      "Veterinary Cancer Society"
+    ]
+  },
+  {
+    "abstract_id": "31426797",
+    "data_source": "train",
+    "extracted_diseases": [
+      "That Tumors Resembling",
+      "Well-Defined Tumor",
+      "Tumor Was",
+      "Lung Cancer Smpnsclc",
+      "Sided Tumor",
+      "Cancer Important",
+      "Right-Sided Tumor Had",
+      "Lung Cancer Is",
+      "Predominant Adenocarcinoma",
+      "Both Tumors",
+      "That Tumors",
+      "Both Tumors Were",
+      "Ar-Predominant Adenocarcinoma Respectively",
+      "Cancer Smpnsclc",
+      "Left-Sided Tumor Had",
+      "Left-Sided Tumors Disclosed",
+      "- Sided Tumor",
+      "Predominant Adenocarcinoma And Acinar - Predominant Adenocarcinoma",
+      "Acinar-Predominant Adenocarcinoma Respectively"
+    ]
+  },
+  {
+    "abstract_id": "35285277",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Lung Adenocarcinomas Mainly",
+      "Lung Cancer Ikrasi-Mt"
+    ]
+  },
+  {
+    "abstract_id": "31069978",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Leukemia Mds Aml",
+      "Myeloid Malignancy",
+      "Myeloid Neoplasms Focusing",
+      "Neoplasm Early Recognition Germline Mutation And Predisposition",
+      "Myeloid Leukemia Mdsaml",
+      "Myeloid Malignancy Permits",
+      "Myeloid Neoplasms During",
+      "Malignancy Permits Appropriate",
+      "Myeloid Neoplasm Early"
+    ]
+  },
+  {
+    "abstract_id": "31178200",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tumors Mcts",
+      "Canine Cutaneous Tumors",
+      "Cutaneous Tumors",
+      "Cell Tumors Mcts"
+    ]
+  },
+  {
+    "abstract_id": "36475784",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Colorectal Cancer Crc",
+      "Colorectal Cancer During"
+    ]
+  },
+  {
+    "abstract_id": "31327245",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Various Cancers Including",
+      "Sept9 Sfrp1 Alterations Tumor Cells Can Examined",
+      "Contribute Early Cancer Detection",
+      "Cancer Patients",
+      "Cancer Crc",
+      "Early Cancer Detection",
+      "Common Cancer",
+      "Colorectal Cancer Crc",
+      "Cancer Cells",
+      "Tumor Cells",
+      "From Healthy And Cancer Cells Hence Genetic E"
+    ]
+  },
+  {
+    "abstract_id": "31606421",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Profile Odontogenic Carcinoma",
+      "Malignant Odontogenic",
+      "- Signaling Activation Both Tumors",
+      "Odontogenic Tumor",
+      "Malignant Odontogenic Tumor",
+      "50 Oncogenes",
+      "Cancer Microscopic Features",
+      "Odontogenic Carcinoma",
+      "Odontogenic Carcinoma Associated",
+      "Tumor Suppressor",
+      "Both Tumors Showed",
+      "Human Cancer Microscopic"
+    ]
+  },
+  {
+    "abstract_id": "31492087",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tumor Tissue",
+      "Thyroid Oncogenes",
+      "Thyroid Tumors Axin1",
+      "Cytologically Malignant",
+      "Six Our 8 Cytologically Malignant And 8 Our 14 Indeterminate Well As",
+      "Malignant Lesions",
+      "Thyroid Tumors"
+    ]
+  },
+  {
+    "abstract_id": "31192927",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Acute Leukemia Experience",
+      "Lymphoblastic Leukemia All Rare Patient Concerns",
+      "Lymphoblastic Leukemia All"
+    ]
+  },
+  {
+    "abstract_id": "36929593",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Eight Metastasising Using",
+      "Clinically Malignant",
+      "Metastasising Tumours Demonstrat",
+      "Except Two Cases 17 And 20 Both Metastasising",
+      "Both Metastasising Demonstrated",
+      "12 Non-Metastasising",
+      "Clinically Malignant And",
+      "Metastasising And Metastasising Tumours Non",
+      "All Metastasising Lccscts",
+      "Analyses Can Helpful Identify Non - Metastasising Tumours",
+      "Identify Non-Metastasising Tumours",
+      "Metastasising And Eight Metastasising",
+      "Tumours Non-Metastasising Tumours",
+      "Metastasising And Metastasising Tumours",
+      "Malignant Potential",
+      "Non - Metastasising Lccsct",
+      "Non-Metastasising Lccsct",
+      "Both Non-Metastasising",
+      "Contrast All Metastasising Lccscts Interpretable Data",
+      "Metastasising Tumours Demonstrated Only Copy - Neutral Loh",
+      "While Metastasising Tumours"
+    ]
+  },
+  {
+    "abstract_id": "31440211",
+    "data_source": "train",
+    "extracted_diseases": [
+      "- Cranial Solid Tumor",
+      "Neuroblastoma Hr - Nbl",
+      "Solid Tumor",
+      "Background Neuroblastoma Is",
+      "High-Risk Neuroblastoma Hr-Nbl"
+    ]
+  },
+  {
+    "abstract_id": "35950566",
+    "data_source": "train",
+    "extracted_diseases": [
+      "- Cancer Therapy",
+      "Ment-Naive Advancedmetastatic Ireti",
+      "Available Anti-Cancer Therapy",
+      "Positive Non - Small - Cell Lung Cancer",
+      "Lung Cancer Nsclc"
+    ]
+  },
+  {
+    "abstract_id": "36925640",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tumor Mutation Burden",
+      "Stomach Adenocarcinoma Stad",
+      "Analysis Tumor Mutation",
+      "During Carcinogenesis To",
+      "Stomach Adenocarcinoma",
+      "Gastric Adenocarcinoma",
+      "Therapy Gastric Adenocarcinoma",
+      "Stad Carcinogenesis Bmethodsb"
+    ]
+  },
+  {
+    "abstract_id": "36517606",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Ivcf Removal Rate Advanced Age And Cancer Presence",
+      "Cancer Presence",
+      "Age And Cancer Presence",
+      "Age P 0 0001 And Cancer Presence P"
+    ]
+  },
+  {
+    "abstract_id": "30948335",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cell Cancer",
+      "That Tumor Stage",
+      "Tumor Stage And P53 Mutation",
+      "Cell Cancer Rcc"
+    ]
+  },
+  {
+    "abstract_id": "31138334",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tumor - Infiltrating B",
+      "Tumor-Infiltrating B",
+      "Cutaneous Melanoma Skcm",
+      "Corresponding Tumor",
+      "To Tumor Samples",
+      "Such Tumor",
+      "Relative Similarity Bulk Tumor Sample Gene Expression Profiles And Different B Cell Phenotypes",
+      "Other Cancer",
+      "Melanoma Skcm",
+      "Cancer Genome",
+      "Metastatic Skcm",
+      "Melanoma Immunobiology",
+      "From The Cancer Genome Atlas Project",
+      "As Tumor Tissue",
+      "Pre-Treatment Tumor Tissues",
+      "Metastatic Skcm Conclusions These Findings Suggest An Important Prognostic And Predictive Role",
+      "Specifically Intratumoral T",
+      "Bulk Tumor Sample",
+      "Anti-Tumor Response",
+      "Other Cancer Types"
+    ]
+  },
+  {
+    "abstract_id": "31183964",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Pancreatic Cancer Are",
+      "Therapy Pancreatic Ductal Adenocarcinoma",
+      "Ductal Adenocarcinoma Pdac",
+      "Pancreatic Cancer"
+    ]
+  },
+  {
+    "abstract_id": "36791667",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cic-Rearranged Sarcoma Median",
+      "Cic - Rearranged Sarcomas",
+      "Cell Sarcomas 3",
+      "Cell Sarcomas Urcss",
+      "Worldwide Sarcoma Reference",
+      "Worldwide Sarcoma Reference Centres",
+      "Sarcomas Urcss",
+      "Cic-Rearranged Sarcomas",
+      "Cell Sarcomas 2",
+      "Cic - Rearranged Sarcoma"
+    ]
+  },
+  {
+    "abstract_id": "31032226",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Preoperatively Stratify Endometrial Cancer Ec Patients Into",
+      "Endometrial Cancer Ec",
+      "Cut - Offs Determination High - Risk Tumors Established Er 78 P",
+      "Tumors Positive",
+      "High-Risk Tumors Were"
+    ]
+  },
+  {
+    "abstract_id": "31622660",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Both Carcinomatous And Sarcomatous Components And Associated High Rates",
+      "Gynaecological Carcinosarcomas",
+      "Naecological Carcinosarcomas Are",
+      "Carcinosarcoma Tumours",
+      "Both Carcinomatous",
+      "Carcinosarcoma Tumours Often Doesn T Correlate With",
+      "Sarcomatous Components",
+      "Metastatic Disease",
+      "Naecological Carcinosarcomas Based"
+    ]
+  },
+  {
+    "abstract_id": "31653094",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Therefore The Availability A Tumor Brca Test Has",
+      "Ovarian Cancer",
+      "Tumor Brca Test",
+      "- Based Tumor",
+      "Between Tumor Brca",
+      "Ovarian Cancer Patients",
+      "Ovarian Cancer Were",
+      "Paraffin-Embedded Tumor Specimens",
+      "Tumor Brca",
+      "Sequencing-Based Tumor Brca",
+      "Nonmucinous And Nonborderline Epithelial Ovarian Cancer",
+      "Clinical Implementation A Tumor Brca Test Within The Frame An Institutional Workflow",
+      "Epithelial Ovarian Cancer"
+    ]
+  },
+  {
+    "abstract_id": "30921238",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Pancreatic Cancer Lapc",
+      "Metabolic Tumor Volume",
+      "Tumor Ldt"
+    ]
+  },
+  {
+    "abstract_id": "31187522",
+    "data_source": "train",
+    "extracted_diseases": [
+      "To One Tumor",
+      "Progression Tumor Specific",
+      "Can Provide An Estimate Tumor Bulk And Tumor Response",
+      "S Lymphoma",
+      "One Tumor Cell",
+      "Characterization Tumors And Selection",
+      "Tumor Bulk",
+      "Multiple Tumor Masses",
+      "Tumor Specific",
+      "Within Multiple Tumor Masses Such",
+      "Immunoglobulin Sequencing Provides A Tumor Specific Marker",
+      "Non-Hodgkins Lymphoma Immunoglobulin"
+    ]
+  },
+  {
+    "abstract_id": "31157977",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Colorectal Cancer Crc",
+      "The Saliva Colorectal Cancer"
+    ]
+  },
+  {
+    "abstract_id": "31320822",
+    "data_source": "train",
+    "extracted_diseases": [
+      "From Cancer Cells",
+      "Malignant Cancer",
+      "Released Cancer",
+      "Malignant Cancer Will",
+      "Cancer Progression",
+      "Cancer Progression Thus Data Regarding The Role The Exosomes"
+    ]
+  },
+  {
+    "abstract_id": "31038558",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Or Metastatic Pancreatic",
+      "Circulating Tumor Cells May Suggest Worse Prognosis Aim",
+      "Pancreatic Tumor",
+      "Circulating Tumor Cells Ctcs",
+      "Background Metastasis Is",
+      "Background Metastasis Common The Diagnosis",
+      "Pancreatic Cancer",
+      "Pancreatic Cancer However",
+      "Or Metastatic Pancreatic Tumor And",
+      "Circulating Tumor Cells"
+    ]
+  },
+  {
+    "abstract_id": "31527860",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Colorectal Cancer Aged",
+      "Taking Into Account Factors Adenoma Count And Year Diagnosis All Application Forms Used Send Patients",
+      "Familial Adenomatous Polyposis",
+      "Adenomatous Polyposis",
+      "Adenoma Count",
+      "Adenomas Aged",
+      "10 Adenomas Aged",
+      "Tumor Or",
+      "10 Adenomas Therefore",
+      "As Adenoma Count",
+      "20 Adenomas Aged",
+      "10 Adenomas",
+      "50-99 Adenomas Logistic"
+    ]
+  },
+  {
+    "abstract_id": "30902384",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Call Cancer Share",
+      "Different Tumor",
+      "New Perspective Cancer",
+      "Cancer Biology",
+      "Thus Opening The Door A Reprogramming Exercise The Tumor Phenotype",
+      "Tumor Phenotype",
+      "Tumor Cell",
+      "Tumor Microenvironment",
+      "Different Tumor Facets",
+      "Call Cancer"
+    ]
+  },
+  {
+    "abstract_id": "30889379",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Prostate Cancers We",
+      "Prostate Cancers Surprisingly",
+      "Prostate Cancers",
+      "Prostate Cancer Converge Five Proteomic Subtypes",
+      "Tumor Proteome",
+      "Prostate Tumors Affect",
+      "Prostate Cancer Converge",
+      "Prostate Cancers Surprisingly The Influence",
+      "Prostate Tumors",
+      "Dysregulation The Tumor Proteome Remains Poorly Understood We Profiled"
+    ]
+  },
+  {
+    "abstract_id": "31322271",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Rectosigmoid Cancer",
+      "The Cancer Tissue",
+      "Adenomatous Polyposis Including",
+      "Colorectal Cancer This",
+      "Cancer Tissues",
+      "Colorectal Cancer",
+      "Cancer Tissue",
+      "Onset Colorectal Cancer Patient",
+      "30 Adenomatous Polyps",
+      "Colorectal Adenomatous Polyposis",
+      "Colorectal Cancer Patient",
+      "The Cancer Tissue While"
+    ]
+  },
+  {
+    "abstract_id": "31203467",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Circulating Tumor",
+      "Treatment Naive Advanced Non - Small Cell Lung Cancer",
+      "Physical Condition Or Inaccessible Tumor Biopsy Location Addition Identifying Oncogenic",
+      "Lung Cancer Analysis",
+      "Circulating Tumor Dna",
+      "Lung Cancer Nsclc",
+      "Inaccessible Tumor Biopsy"
+    ]
+  },
+  {
+    "abstract_id": "31384200",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Thyroid Carcinoma Cmv - Ptc Can Associated",
+      "Thyroid Carcinoma Cmv-Ptc",
+      "Familial Adenomatous",
+      "Familial Adenomatous Polyposis"
+    ]
+  },
+  {
+    "abstract_id": "30931661",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Thyroid Cancer Resulting",
+      "Thyroid Carcinoma Ccptc",
+      "Lethal Tumor Component",
+      "Thyroid Cancer Resulting From",
+      "Carcinoma Atc",
+      "Thyroid Carcinoma Atc",
+      "Tumor Cells",
+      "Thyroglobulin The Tumor"
+    ]
+  },
+  {
+    "abstract_id": "31409085",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Familial Adenomatous Polyposis",
+      "Colorectal Cancers Arise",
+      "Colon Cancer Lynch",
+      "Colorectal Cancer",
+      "Gastric Adenocarcinoma And Proximal",
+      "Gastric Adenocarcinoma",
+      "Extracolonic Cancers Polyposis",
+      "Familial Adenomatous",
+      "These Cancer Syndromes",
+      "Colorectal Cancer Syndromes",
+      "Hamartoma Tumor Syndromes",
+      "Polyposiscolon Cancer Syndromes",
+      "Also Risk Extracolonic Cancers Polyposis",
+      "Cancer Lynch Syndrome",
+      "Cancer Syndromes Enables Early Diagnosis And Prevention Cancer",
+      "Background It Estimated That 5 - 10 Colorectal Cancers",
+      "Memorial Cancer Institute",
+      "Tumor Syndromes Conclusion Awareness Hereditary Polyposis"
+    ]
+  },
+  {
+    "abstract_id": "31521947",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Per Tumor Substantial",
+      "Post-Treatment Tumor Material",
+      "Rectal Tumors Are",
+      "Intra-Tumoral Genetic",
+      "Intra - Tumoral Genetic",
+      "Unique Sub - Clones Within Tumors May",
+      "Treated Tumor Was",
+      "Post - Treatment Tumor Specimen",
+      "Within Tumors May",
+      "Genes Intra-Tumoral Heterogeneity",
+      "Tumor Population",
+      "Rectal Tumors",
+      "Intra - Tumoral",
+      "Versus Post - Treatment Tumor Material Found",
+      "Post-Treatment Tumor Specimen",
+      "Cancer Patients Underwent",
+      "Rectal Cancer Includes",
+      "Sub-Clonal Tumor Population",
+      "Rectal Cancer",
+      "Rectal Cancer Patients",
+      "Rectal Cancer May",
+      "Rectal Cancer Following"
+    ]
+  },
+  {
+    "abstract_id": "31006323",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Prostate Cancer Pca"
+    ]
+  },
+  {
+    "abstract_id": "31164412",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Carcinogenesis To",
+      "Through Tumor Extrinsic",
+      "Cancer Development",
+      "Epithelial Cancers Probing",
+      "That Tumor Cells",
+      "Carcinogenesis Cell -",
+      "Microenvironment And Tumor Formation Both Normal And Ras",
+      "Skin Carcinogenesis We",
+      "Tumor Formation",
+      "Advanced Cancers",
+      "Transcriptional Profile Indicates That Reduction Ikappabzeta Signaling During Cancer Progression Associates",
+      "During Cancer Progression",
+      "Tumor Promoters Activating Canonical",
+      "To Tumor Promoters",
+      "Carcinogenesis We Show That Il17",
+      "Cancer Genome",
+      "Multiple Epithelial Cancers Probing The Cancer",
+      "Benign Tumor Formation",
+      "Through Tumor",
+      "Cancer Progression",
+      "Cancers Implications The Paradox That Elevation Ikappabzeta",
+      "Human Cancers Implications"
+    ]
+  },
+  {
+    "abstract_id": "36927431",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Using Pan-Cancer Research",
+      "Cancer-Promoting Agent",
+      "Cancers Lastly",
+      "That Ptov1 Acts A Cancer",
+      "Tumor Mutational",
+      "Several Cancer Cell",
+      "Several Malignancies Consequently Using Pan - Cancer",
+      "Prostate Tumor Overexpressed-1",
+      "Cancer Cell Lines",
+      "Tumor Overexpressed",
+      "Various Cancers",
+      "Bladder Cancer Breast",
+      "Cancer Treatment A Comprehensive",
+      "Cancers And Rna",
+      "Dder Cancer Breast",
+      "Tumor Immunity",
+      "Cancer Progression",
+      "Observed Tumor Mutational",
+      "Cancer Treatment",
+      "18 Cancer Tissues"
+    ]
+  },
+  {
+    "abstract_id": "30925542",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Breast Cancer",
+      "High Tumor Grade",
+      "Tumor Volume",
+      "Advanced Cancer Patients",
+      "Cancer Management",
+      "Er Negativity Triple Negativity High Tumor Grade And High Nuclear Polymorphism",
+      "Increased Tumor L",
+      "Breast Tumor Lesion",
+      "Local Locally Advanced Cancer Patients",
+      "Respect Er Negativity Pr Negativity High Tumor Grade High Mitosis",
+      "Breast Tumor",
+      "Increased Tumor Load",
+      "Tumor Heterogeneity",
+      "Metabolic Tumor Volume",
+      "Breast Cancer Management"
+    ]
+  },
+  {
+    "abstract_id": "36859545",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cancer Disease",
+      "Melanoma Cells Blebbing",
+      "Braf-Mutated Melanoma Cells",
+      "Cancer Disease Progression",
+      "Melanoma Cells",
+      "As Cancer Cells"
+    ]
+  },
+  {
+    "abstract_id": "31367627",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Neoplasms Were",
+      "Rare Tumor",
+      "Synovial Sarcoma Prss",
+      "Biggest Neoplasm Grew",
+      "Metastasis At",
+      "Synovial Sarcoma Have",
+      "Rare Tumor A Poor",
+      "Renal Tumors Which",
+      "Synovial Sarcoma Especially When It Formed",
+      "Synovial Sarcoma Especially",
+      "Hypo-Echo Neoplasms",
+      "Prognosis Its Imaging And Immunohistochemical Characteristics May Overlap Other Renal Tumors Which Renders Its Early Diagnosis",
+      "Sarcoma Was",
+      "Synovial Sarcoma",
+      "Synovial Sarcoma Was",
+      "Synovial Sarcoma Requires"
+    ]
+  },
+  {
+    "abstract_id": "30893213",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Mean Tumor Vascular",
+      "Colorectal Carcinoma Were",
+      "Colorectal Cancer Frequently",
+      "After Tumor",
+      "Colorectal Cancer Model",
+      "Ct Calliper - Measured Tumor Growth",
+      "Cancer Model",
+      "Olorectal Carcinoma",
+      "Metastatic Colorectal",
+      "Tumor Response",
+      "Calliper-Measured Tumor Growth",
+      "Lower Tumor Vascular",
+      "Final Tumor Volume",
+      "After Tumor Resection",
+      "Final Tumor",
+      "Immunohistochemical Mean Tumor"
+    ]
+  },
+  {
+    "abstract_id": "31248668",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Prognostically Significant Endometrial Carcinoma Subtypes",
+      "Hysterectomy Tumor",
+      "Cohort Endometrial Carcinoma A High Level Concordance Achieved Between",
+      "Endometrial Carcinoma Materials",
+      "Endometrial Cancer Based Irreproducible Post",
+      "Hysterectomy Specimens Assessing The Molecular Classification Endometrial Carcinoma",
+      "Identical That Endometrial Carcinoma Conclusion",
+      "Endometrial Carcinomas",
+      "Tumor Grade",
+      "Endometrial Cancer Are",
+      "Endometrial Carcinoma Resection",
+      "Endometrial Carcinomas Were",
+      "Endometrial Carcinoma",
+      "Hysterectomy Tumor The Profile",
+      "Endometrial Carcinoma Conclusion",
+      "Endometrial Carcinoma Subtypes"
+    ]
+  },
+  {
+    "abstract_id": "30971563",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Epithelioid Sarcoma Usually",
+      "Variety Tumors Epithelioid Sarcoma",
+      "These Tumors Are",
+      "Sarcomas Constituting",
+      "As These Tumors Are",
+      "Tumors Epithelioid",
+      "Epithelioid Sarcoma",
+      "Primary Tumors"
+    ]
+  },
+  {
+    "abstract_id": "30874851",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Multiple Myeloma Mm"
+    ]
+  },
+  {
+    "abstract_id": "31055803",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Myeloid Leukemia Aml",
+      "Promyelocytic Leukemia Apl",
+      "Those Non - Acute Promyelocytic Leukemia",
+      "Leukemia Aml"
+    ]
+  },
+  {
+    "abstract_id": "30964475",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Colon Cancer Colon",
+      "Anti-Cancer Efficacy",
+      "Reduced Uv Irradiation Indicating Photo - Induced Enhancement Anti - Cancer Efficacy"
+    ]
+  },
+  {
+    "abstract_id": "31019896",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Hepatic Tumor Present Ultrasound Imaging",
+      "Techniques Showed A Tumor The Left",
+      "Independent Tumors",
+      "Tumor And No",
+      "Pediatric Oncology",
+      "Residual Neuroblastoma Nbl",
+      "Hepatic Tumor",
+      "Hepatic Tumor Present",
+      "Biopsy Hepatoblastoma Hbl",
+      "Both Neoplasms",
+      "Neuroblastoma Nbl"
+    ]
+  },
+  {
+    "abstract_id": "30974190",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tumors Acts",
+      "Other Tumors",
+      "Plexus Carcinoma Cpc",
+      "Cervical Carcinoma",
+      "Primary Tumor Median",
+      "These Tumors Was",
+      "Primary Tumor All",
+      "Primary Tumor Including",
+      "Tumors Diagnosis",
+      "Soft Tissue Sarcoma",
+      "Breast Cancer 12",
+      "Adrenocortical Carcinoma Acc",
+      "Investigated Tumor Profile",
+      "Primary Tumor",
+      "Adrenocortical Tumors Acts",
+      "Nine Malignant Neoplasms",
+      "Act Addition We Observed The Occurrence Other Tumors",
+      "Primary Tumor At",
+      "Spectrum The Clinical Outcomes And The Potential Tumor Occurrence",
+      "However The Prevalence Other Tumors Of",
+      "Tumor Median Follow",
+      "Malignant Neoplasms Were",
+      "The Diagnosis These Tumors Established",
+      "Lung Cancer 2",
+      "And Choroid Plexus Carcinoma Cpc",
+      "More Than One Case Act Nine Malignant Neoplasms",
+      "Primary Tumor Three",
+      "Tissue Sarcoma 8",
+      "Including Bronchoalveolar Lung Cancer",
+      "Main Tumors At",
+      "Potential Tumor Occurrence",
+      "Tumor Three Families",
+      "We Investigated Tumor"
+    ]
+  },
+  {
+    "abstract_id": "30929114",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Molecular Neuro-Oncology Group",
+      "Pf Tumors That",
+      "Cord Tumors",
+      "Spinal Cord Tumors And 93"
+    ]
+  },
+  {
+    "abstract_id": "31479615",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cancer -",
+      "Harbors Cancer-Associated Mutation",
+      "Ovarian Cancers"
+    ]
+  },
+  {
+    "abstract_id": "31244646",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Caecal Adenocarcinoma",
+      "Extension And Peritoneal Carcinomatosis",
+      "- Old Man A Caecal Adenocarcinoma Major",
+      "Achieved Tumor Control",
+      "Peritoneal Carcinomatosis Presenting"
+    ]
+  },
+  {
+    "abstract_id": "31032472",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Had Metastatic Or",
+      "- Derived Circulating Tumor Dna Ctdna",
+      "Colorectal Cancer Have",
+      "Colorectal Cancers Were",
+      "Colorectal Cancer Results",
+      "Patients Colorectal Cancer Have",
+      "Circulating Tumor Dna",
+      "Metastatic Or Recurrent Disease The Time Blood Draw The Median"
+    ]
+  },
+  {
+    "abstract_id": "31195997",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Paraneoplastic Neurological",
+      "Paraneoplastic Neurological Disease"
+    ]
+  },
+  {
+    "abstract_id": "31043167",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Prostate Cancer Lacking",
+      "Negative Cancers 7",
+      "Prostate Cancers",
+      "Different Cancer",
+      "Prostate Cancer Are",
+      "Prostate Cancer",
+      "Negative Cancers",
+      "14 Cancers Strong Snw1 Expression",
+      "Different Cancer Types",
+      "Cancer Samples",
+      "Prostate Cancers Harboring",
+      "Cancers Strong"
+    ]
+  },
+  {
+    "abstract_id": "31097693",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Colorectal Cancer Crc",
+      "Cancer Relapse",
+      "Cancer Stem"
+    ]
+  },
+  {
+    "abstract_id": "31000705",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Non - Small Cell Lung Cancer",
+      "Tumors Harboring",
+      "Lung Cancer Nsclc",
+      "Nsclc Tumors Harboring"
+    ]
+  },
+  {
+    "abstract_id": "31209635",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Endocervical Adenocarcinomas Ecas",
+      "Mucin-Producing Carcinoma Invasive",
+      "Endocervical Adenocarcinoma Criteria",
+      "Invasive Adenocarcinoma Nos",
+      "Etiological Clinical Or Therapeutic Relevance And Lacks Sufficient Reproducibility The 2017 International Endocervical Adenocarcinoma Criteria And Classification Iecc System",
+      "Invasive Adenocarcinoma"
+    ]
+  },
+  {
+    "abstract_id": "30886395",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Metastatic Cancer",
+      "Colorectal Cancers Crcs",
+      "Melanoma Treatment",
+      "Solid Cancers Including",
+      "Metastatic Cancer Immunotherapy",
+      "Metastatic Crc",
+      "Dmmr-Msi-H Metastatic Crc"
+    ]
+  },
+  {
+    "abstract_id": "30873683",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cancers Classification",
+      "Cancer Mortality",
+      "Anti-Cancer Therapeutics",
+      "Cancers Prognostic",
+      "Clinical Anti-Cancer Treatment",
+      "Including Diagnosis Cancers Classification Cancers Prognostic And Predictive Values",
+      "Early Diagnosis Tumour Detection Early Stage Before Metastasis Combination Detection These Tumour",
+      "Cancer Treatment",
+      "Increase Cancer",
+      "Before Metastasis Combination"
+    ]
+  },
+  {
+    "abstract_id": "36634747",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Carcinoma Hcc",
+      "Hepatocellular Carcinoma Hcc",
+      "Extracted Tumor",
+      "From Tumor Samples"
+    ]
+  },
+  {
+    "abstract_id": "30932419",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Chronic Lymphocytic Leukemia",
+      "Lymphocytic Leukemia Cll"
+    ]
+  },
+  {
+    "abstract_id": "31414211",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Primary Tumors",
+      "Five Primary Tumors",
+      "Ependymal Tumors Form",
+      "Ependymal Tumors",
+      "Heterogeneous Group Tumors",
+      "Sp-Epn-Mycn Tumors Showed",
+      "Ependymal Tumors Identified"
+    ]
+  },
+  {
+    "abstract_id": "30882153",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Ureter Cancer And Other Available",
+      "Gastric Cancer Immunohistochemica",
+      "Available Cancer Tissue",
+      "Ureter Cancer",
+      "Gastrointestinal Cancer Syndromes",
+      "Ureter Cancer He",
+      "Cancer Tissue"
+    ]
+  },
+  {
+    "abstract_id": "31281162",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Ovarian Cancer Susceptibility",
+      "Cancer Among",
+      "Genes And Risk Cancer Among"
+    ]
+  },
+  {
+    "abstract_id": "31029439",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Prostate Cancer Cap",
+      "Tumor Controls"
+    ]
+  },
+  {
+    "abstract_id": "31158302",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Invasive Carcinoma Was",
+      "Carcinomas Important Lesions",
+      "Tubular Adenomas",
+      "Invasive Carcinoma Are",
+      "Invasive Carcinoma",
+      "Serrated Adenomapolyps Ssaps",
+      "Submucosal Invasive Carcinoma Ssa",
+      "Interval Cancer Rates",
+      "Invasive Carcinomas Are",
+      "Dysplastic Or Invasive Carcinomas",
+      "Invasive Carcinoma Frequently",
+      "Metastasis Greater Awareness May Promote Further Research Into Improving The Detection Recognition And Complete Resection Rates",
+      "Dysplasia Or Invasive Carcinoma Associated",
+      "Reduce The Interval Cancer Rates",
+      "Sessile Serrated Adenoma",
+      "Colorectal Carcinomas",
+      "Invasive Carcinoma Ssaps",
+      "Interval Cancers",
+      "Invasive Carcinoma Were",
+      "Invasive Carcinomas Clinicopathologic",
+      "Node Metastasis Greater",
+      "Dysplasia Or Invasive Carcinoma",
+      "Submucosal Invasive Carcinoma",
+      "Node Metastasis"
+    ]
+  },
+  {
+    "abstract_id": "36621979",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cancer Including",
+      "Clones Subcutaneous Tumor Model Further",
+      "Derived Tumor Growth",
+      "Tumor Growth",
+      "Types Cancer Including Hgsoc",
+      "Ovarian Carcinoma Hgsoc",
+      "Ovarian Cancer Tissue",
+      "Subcutaneous Tumor Model",
+      "Cancer Tissue Associated Advanced"
+    ]
+  },
+  {
+    "abstract_id": "31108964",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Malignancy Relapses Following",
+      "Chemosensitive Malignancy Relapses",
+      "Cancer Nsclc",
+      "Oncogenes Considering",
+      "Lung Cancer Sclc",
+      "Influence Tumor Repair",
+      "Lung Cancer Is",
+      "Cancer-Related Deaths",
+      "Proto- Oncogenes Considering",
+      "Lung Cancer Nsclc",
+      "Inhibitors Can Influence Tumor Repair Mechanisms And Thus Offer New Perspectives",
+      "Tumor Suppressors",
+      "Cancer Sclc",
+      "Lung Cancer"
+    ]
+  },
+  {
+    "abstract_id": "36453446",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Lung Adenocarcinoma Patients",
+      "T Metastasis Brain",
+      "Mutation Advanced Lung Adenocarcinoma",
+      "Lung Adenocarcinoma Receiving",
+      "Lung Adenocarcinoma Patient",
+      "Mutation Advanced Lung Adenocarcinoma Patient Who Treated",
+      "Solid Tumor",
+      "Advanced Lung Adenocarcinoma Receiving",
+      "Distant Metastasis Brain",
+      "Solid Tumor Recist"
+    ]
+  },
+  {
+    "abstract_id": "30975996",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tumorigenesis And Strategies",
+      "Mutant Cancer Cells",
+      "Cohesin-Mutant Cancers",
+      "During Tumorigenesis",
+      "Cancer However"
+    ]
+  },
+  {
+    "abstract_id": "31433323",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Than Melanomas This Context The Notion That Melanocytic Neoplasms Can Classified As",
+      "Melanocytic Tumors Displayed",
+      "Nevi Melanomas",
+      "Synthesizing Melanocytic Neoplasms",
+      "As Benignmalignant Is",
+      "Melanocytic Neoplasms",
+      "Melanocytic Tumors",
+      "Tumor - Suppression Mechanisms",
+      "Melanocytic Neoplasms Deep",
+      "Nevi And Melanomas",
+      "Melanocytic Neoplasms Can",
+      "Melanocytic Neoplasms Pigment-Synthesiz",
+      "All Neoplasms Harbor",
+      "Each Single Tumor",
+      "Spitzoid Neoplasms Blue",
+      "Malignant Hardly",
+      "Than Melanomas",
+      "Single Tumor",
+      "Fusions Melanomas Also",
+      "Tumors Based",
+      "Melanocytic Neoplasms Each",
+      "Single Tumor Although",
+      "Oid Neoplasms Blue",
+      "Aggregations Or Classes Tumors",
+      "All Neoplasms",
+      "Ablating Tumor-Suppression Mechani",
+      "Malignant Potential",
+      "Melanocytic Neoplasms Have",
+      "Is The Malignant Potential Related"
+    ]
+  },
+  {
+    "abstract_id": "31055804",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Monocytic Leukemia Aml",
+      "Leukemia Aml"
+    ]
+  },
+  {
+    "abstract_id": "36200726",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Colorectal Cancer Crc"
+    ]
+  },
+  {
+    "abstract_id": "31443309",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Malignant Pleural Effusion Mpe An Exudative Effusion",
+      "Malignancies And Malignant Mesothelioma",
+      "Malignant Cells",
+      "Cancer Lymphoma Gynecological",
+      "Breast Cancer Lymphoma",
+      "Metastatic Disease It",
+      "Tumor-Host Cell",
+      "Advanced Malignancy Recent",
+      "Malignant Pleural",
+      "Malignant Cells Mpe",
+      "Malignant Mesothelioma",
+      "Malignancy Recent Findings",
+      "Metastatic Disease",
+      "Lung Breast Cancer"
+    ]
+  },
+  {
+    "abstract_id": "31207705",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Myeloid Leukemia Aml",
+      "Leukemia Aml"
+    ]
+  },
+  {
+    "abstract_id": "30900517",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Myofibroblastic Tumor Imt",
+      "Tumor Imt",
+      "Anaplastic Lymphoma",
+      "Anaplastic Lymphoma Kinase",
+      "Benign Cancer That",
+      "Unresectable Tumors Or",
+      "Unresectable Tumors O",
+      "Benign Cancer"
+    ]
+  },
+  {
+    "abstract_id": "31412428",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Most Prevalent Type 1 Endometrial Cancer",
+      "Non - Cancerous Uterine Mass Warranted",
+      "Endometrial Cancer Develops",
+      "Cancer Gene",
+      "Cancer Among Women",
+      "Cancer And The Sixth Most",
+      "Fifty Cancer Genes",
+      "Matched Non-Cancerous",
+      "Cancer Included",
+      "Endometrial Carcinoma",
+      "Appearance A Malignancy Our Finding Suggests That A Closer Monitoring Patients Who Present Such Molecular Alterations",
+      "Gynaecological Cancer",
+      "Cancer Genes",
+      "I Endometrial Carcinoma",
+      "Matched Non-Cancerous Tissues",
+      "Cancer Followed",
+      "Non-Cancerous Uterine",
+      "Predicting Or Anticipating Subsequent Cancer Development",
+      "Malignant Lesions",
+      "Cancer Were",
+      "Oncogenes Or",
+      "Cancer Gene Mutations",
+      "Subsequent Cancer Development",
+      "Frequent Cancer Among",
+      "Cancer Genes Useful",
+      "Cancerous Tissues Exhibited",
+      "The Study A Fifty Cancer",
+      "Cancerous And Malignant Samples",
+      "Endometrial Carcinoma Is",
+      "Endometrial Carcinoma Represents",
+      "Malignancy Our",
+      "Malignant Samples",
+      "Malignant Disease",
+      "From Cancer Tissues"
+    ]
+  },
+  {
+    "abstract_id": "31428572",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Trusightcancer Kit",
+      "Multiple Tumors",
+      "Using The Trusightcancer Kit On",
+      "Colorectal Cancer Crc",
+      "Crccrc-Related Cancers",
+      "Rectal Cancer"
+    ]
+  },
+  {
+    "abstract_id": "31216832",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tissue Neoplasms",
+      "Showed That Tumor",
+      "Cell Neoplasms Malignant",
+      "Interdigitating Dendritic Cell Sarcoma",
+      "Neoplasms Malignant Melanoma",
+      "That Tumor Cells",
+      "Cell Sarcoma Idcs",
+      "Malignant Melanoma",
+      "Tumor Cells"
+    ]
+  },
+  {
+    "abstract_id": "31384696",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Risk Colon Cancer While The Lack Distinction",
+      "Familial Adenomatous",
+      "Cancer Age Thirty - Five",
+      "Familial Adenomatous Polyposis",
+      "Tubular Adenoma Genetic",
+      "Colorectal Cancer",
+      "Colon Cancer",
+      "Colon Cancer While",
+      "Although Family History Negative Colon Cancer",
+      "Genetic Testing Consistent A Possible De Novo Adenomatous",
+      "Novo Adenomatous Polyposis"
+    ]
+  },
+  {
+    "abstract_id": "31462891",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Lymphoid Tumors",
+      "Cancer Dna",
+      "Lymphoid Tumors However",
+      "Lymphoblastic Leukemia All"
+    ]
+  },
+  {
+    "abstract_id": "31115855",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Thyroid Carcinoma Ptc",
+      "Carcinoma Ptc",
+      "Thyroid Cancer Management",
+      "That Thyroid Cancer Management Guidelines Should"
+    ]
+  },
+  {
+    "abstract_id": "31372733",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Hereditary Nonpolyposis Colorectal Cancer Lynch Hnpcc Syndrome",
+      "Increase Awareness Detection Hereditary Colon Cancer Among Patients And Physicians",
+      "Colorectal Cancer",
+      "Colorectal Cancer Lynchhnpcc",
+      "Extracolonic Carcinomas",
+      "Increased Occurrence Colorectal Cancer And Extracolonic Carcinomas",
+      "Colon Cancer Among"
+    ]
+  },
+  {
+    "abstract_id": "31032785",
+    "data_source": "train",
+    "extracted_diseases": [
+      "These Aggressive Tumors",
+      "Aggressive Tumors",
+      "Mucosal Melanomas And The Immunotherapy Have",
+      "Mucosal Melanomas",
+      "Mucosal Melanomas Target",
+      "Mucosal Melanomas Are",
+      "Ocular Melanoma They",
+      "These Malignant Melanomas",
+      "Primary Tumors Even",
+      "Primary Tumors Originating",
+      "Malignant Melanomas Usually",
+      "As Mucosal Melanomas",
+      "Are Malignant Primary",
+      "Mucosal Melanomas Knowledge"
+    ]
+  },
+  {
+    "abstract_id": "36356599",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Solid Cancers Received",
+      "Cancer Cellssup1-3Sup",
+      "Cancer Cells"
+    ]
+  },
+  {
+    "abstract_id": "36928600",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Pancreatic Cancer Pc",
+      "Adenosquamous Carcinomas P",
+      "Other Cancers",
+      "Tumor Mutation",
+      "Pancreatic Cancer",
+      "Carcinomas P",
+      "Pc Tumor Mutation"
+    ]
+  },
+  {
+    "abstract_id": "31077215",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Leukemia Cell Lines Conducted Help Us",
+      "Myeloid Leukemia Aml",
+      "Molm-13 Leukemia Cell",
+      "Leukemia Cell",
+      "Molm - 13 Leukemia Cell",
+      "Solid Tumors However",
+      "Cancer Cells",
+      "Leukemia Aml"
+    ]
+  },
+  {
+    "abstract_id": "31097696",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Multiple Cancer Types",
+      "1011 Human Cancer",
+      "Human Cancer Cell",
+      "350 Anti-Cancer Drugs",
+      "Involving Cancer Driver",
+      "Cancer To",
+      "- Cancer Drugs",
+      "Cancer Driver"
+    ]
+  },
+  {
+    "abstract_id": "30989623",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Breast Cancer 221",
+      "And Melanoma",
+      "Melanoma 138",
+      "The Underlying Tumor We Sought Identify Prognostic Factors",
+      "Colorectal Cancer",
+      "Underlying Tumor We",
+      "Lung Adenocarcinoma Had A Favorable",
+      "Colorectal Cancer 106",
+      "Breast Adenocarcinoma Hr",
+      "Tumor Origin",
+      "Melanoma Bms",
+      "Lung Adenocarcinoma Had",
+      "Breast Adenocarcinoma"
+    ]
+  },
+  {
+    "abstract_id": "30971562",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Is Still Rare These Tumors Are",
+      "Myofibroblastic Tumor Imt",
+      "Mesenteric Tumor Nodules",
+      "Tumor Imt",
+      "Resected Tumor",
+      "Mesenchymal Neoplasm",
+      "These Tumors Are",
+      "Mesenchymal Neoplasm Possible Malignant Nature",
+      "Tumor Debulking Performed",
+      "Section Tumor Debulking",
+      "Metastatic Potential",
+      "Possible Malignant Nature",
+      "Their Etiology And Metastatic Potential",
+      "Myofibroblastic Sarcoma Eims"
+    ]
+  },
+  {
+    "abstract_id": "31186051",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tumorigenesis Cancer Cell",
+      "Human Cancers Aberrant",
+      "Senescence Evasion And Metastasis The Molecular Basis Htert Regulation Highly Complicated And Consists Various Layers",
+      "Tumorigenesis Cancer",
+      "Cancers Aberrant Expression Htert Closely Associated",
+      "Cancer Cell"
+    ]
+  },
+  {
+    "abstract_id": "31383941",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Familial Adenomatous Polyposis",
+      "Colorectal Adenomas",
+      "Adenomas And Results Inherited Or",
+      "Adenomatous Polyposis"
+    ]
+  },
+  {
+    "abstract_id": "31283845",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Mesothelioma Has Not",
+      "Mesothelioma Incidence And Mortality Rates",
+      "Cancer Syndrome Elucidated",
+      "Pleural Mesothelioma Is",
+      "Global Mesothelioma Incidence",
+      "Mesothelioma Has",
+      "Mesothelioma Affects",
+      "Asbestos The Incidence Rate Mesothelioma",
+      "Mesothelioma Dia",
+      "Cause Mesothelioma",
+      "Peritoneal Mesothelioma Multidisciplinary",
+      "From Mesothelioma Has",
+      "Mesothelioma Diagnoses",
+      "Mesothelioma May",
+      "Pleural Mesothelioma Controversial It",
+      "Peritoneal Mesothelioma",
+      "Other Cancers Bap1",
+      "Hotspots Mesothelioma May Occur When Carcinogenic Fibers That Present"
+    ]
+  },
+  {
+    "abstract_id": "31009688",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Adenomas Have",
+      "Neoplasm Formation",
+      "Cholestasis Neoplasm Formation",
+      "Hepatic Adenomas Four"
+    ]
+  },
+  {
+    "abstract_id": "30955261",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Lung Cancer Diagnosis",
+      "Favor Adenocarcinoma 66",
+      "Cell Carcinoma Possible",
+      "Adenocarcinoma 92",
+      "To The 2015 Who Lung Tumor Classification And Related Gene",
+      "Major Tumor Driving",
+      "Neuroendocrine Carcinoma 3",
+      "Cell Carcinoma Not",
+      "Lung Cancer Confirmed",
+      "Carcinoma 11 Cases",
+      "Lung Cancer Was",
+      "Cell Carcinoma Favor",
+      "Adenosquamous Carcinoma Among",
+      "Cell Carcinoma11 Cases",
+      "Diagnosis Lung Cancer Reclassified",
+      "Lung Cancer",
+      "Specimens 2015 Who Lung Tumor Classification",
+      "Carcinoma 42 Cases 8 70",
+      "Cell Carcinoma 42",
+      "Neuroendocrine Carcinoma 2",
+      "Major Tumor",
+      "Neuroendocrine Carcinoma",
+      "Neuroendocrine Carcinoma 3 Cases",
+      "Carcinoma 16 Cases 3 31",
+      "Cell Carcinoma 16",
+      "Favor Adenocarcinoma Twenty",
+      "The 2015 Who Lung Tumor Classification Better Suited",
+      "Cell Carcinoma",
+      "Lung Tumor Classification",
+      "Favor Adenocarcinoma"
+    ]
+  },
+  {
+    "abstract_id": "31631483",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Male Presented Prostatic Adenocarcinoma",
+      "Breast Cancer",
+      "Prostate Cancer Pca",
+      "Breast Cancer 25",
+      "Metastatic Lung",
+      "Prostatic Adenocarcinoma",
+      "Other Cancer Types"
+    ]
+  },
+  {
+    "abstract_id": "36789545",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Childrens Oncology Group",
+      "Myeloid Leukemia Aml",
+      "Acute Myeloid Leukemia",
+      "S Oncology Group",
+      "Leukemia Morphology"
+    ]
+  },
+  {
+    "abstract_id": "31340823",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Case Tumor",
+      "Primary Tumor Was",
+      "Rare Tumor",
+      "Early Lung Adenocarcinoma",
+      "Biological Behavior This Tumor Is",
+      "Papillary Tumor",
+      "Lung Adenocarcinoma Tumors",
+      "Papillary Tumor Cmpt",
+      "This Tumor Is",
+      "Adenocarcinoma Tumors",
+      "Tumor Recurrence"
+    ]
+  },
+  {
+    "abstract_id": "36877099",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Non - Small - Cell Lung Cancer",
+      "Solid Tumors",
+      "Brain Metastasis And Avoidance Neurological Side Effects Taletrectinib",
+      "Lung Cancer However",
+      "Brain Metastasis While",
+      "Metastatic Ros1",
+      "Locally Advancedmetastatic Ros1Supsup",
+      "Brain Metastasis",
+      "Non - Small - Cell Lung Cancer And Other",
+      "Lung Cancer"
+    ]
+  },
+  {
+    "abstract_id": "30922401",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tumor Volume",
+      "Mucinous Colorectal Adenocarcinoma As",
+      "Colorectal Adenocarcinoma Which",
+      "Colorectal Adenocarcinoma",
+      "Colorectal Cancer Crc",
+      "Colorectal Adenocarcinoma Also",
+      "Nocarcinoma Associated The Overexpression",
+      "Mucinous Colorectal Adenocarcinoma Found",
+      "Adenocarcinoma More Frequently",
+      "Cancer Crc",
+      "Adenocarcinoma And Provide An Update Its Prognosis And Therapeutics From",
+      "Colorectal Adenocarcinoma Is",
+      "Colorectal Adenocarcinoma To",
+      "- Mucinous Colorectal Adenocarcinoma",
+      "Mucinous Colorectal Adenocarcinoma Palliative",
+      "Adenocarcinoma Debatable",
+      "Colorectal Adenocarcinoma As"
+    ]
+  },
+  {
+    "abstract_id": "36169546",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Hepatocellular Adenomas Hcas"
+    ]
+  },
+  {
+    "abstract_id": "31158106",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Prostate Cancer Is",
+      "Metastatic Castration-Resistan",
+      "Patients Tumor",
+      "Ients Tumor",
+      "Metastatic Castration",
+      "Prostate Cancer",
+      "Metastatic Prostate",
+      "Prostate Cancer Mcrpc",
+      "Utility Tumor Genetic",
+      "Tumor Genetic"
+    ]
+  },
+  {
+    "abstract_id": "36787023",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Lung Adenocarcinoma Were"
+    ]
+  },
+  {
+    "abstract_id": "31029168",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tumor Tissues",
+      "Ffpe Tumor Tissues",
+      "Ovarian Cancer",
+      "The Five Matched Ffpe Tumor",
+      "Ffpe Tumor Samples",
+      "Deficient Recurrent Ovarian Cancer Testing",
+      "Ovarian Cancer Testing",
+      "Breast And Ovarian Cancer",
+      "Five Matched Ffpe Tumor",
+      "Oncogenes Methods",
+      "Detection Using Ffpe Tumor Samples"
+    ]
+  },
+  {
+    "abstract_id": "30953289",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Lymph Nodes Metastatic",
+      "Thyroid Cancer",
+      "Follicular Adenomas Lacking",
+      "Thyroid Carcinomas Ni-Efvpc",
+      "Metastatic Niftp",
+      "To Follicular Adenomas Lacking",
+      "Conventional Thyroid Cancer",
+      "Thyroid Neoplasm"
+    ]
+  },
+  {
+    "abstract_id": "31321084",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Nsd1 Tumors Interestingly",
+      "Cancers Here We Characterize Nsd1 Mutations",
+      "Whose Tumors Harbored",
+      "Expanded The Cancer Genome",
+      "Examine Their Prognostic Implications Based Hpv Status The Tumor We Also Begin Examin",
+      "Tumor We",
+      "Cell Carcinomas Hnsccs",
+      "Cancers May Also",
+      "Type Nsd1 Tumors",
+      "Cancer Genome",
+      "Neck Cancers Nsd1",
+      "Hpv- Tumors 13",
+      "Hpv Cancers May",
+      "Laryngeal Cancers Here",
+      "Hpv Tumors Proliferation",
+      "Carcinomas Hnsccs"
+    ]
+  },
+  {
+    "abstract_id": "36857646",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Most Tumor Markers",
+      "Multiple Tumor Markers",
+      "Combined Detection Multiple Tumor Markers Can Improve The Accuracy Early Tumor Diagnoses",
+      "Early Tumor Diagnoses",
+      "To Detect Multiple Tumor Markers",
+      "Tumor Diagnosis",
+      "To Tumor Diagnosis"
+    ]
+  },
+  {
+    "abstract_id": "31319986",
+    "data_source": "train",
+    "extracted_diseases": [
+      "48 Adenocarcinoma",
+      "Identifying Malignant",
+      "Malignant Cells",
+      "Identifying Malignant Biopsies",
+      "Presence Malignant Cells",
+      "Cell Carcinoma",
+      "Lung Cancer Nsclc"
+    ]
+  },
+  {
+    "abstract_id": "31094179",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Colorectal Cancer",
+      "Familial Adenomatous",
+      "Familial Adenomatous Polyposis",
+      "Colorectal Cancer Over"
+    ]
+  },
+  {
+    "abstract_id": "31641659",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Burkitt Lymphoma That",
+      "Tumor Showed Immunohistochemical",
+      "Tumor Showed",
+      "Abdominal Tumor Detected",
+      "B-Cell Neoplasms Positive",
+      "Burkitt Lymphoma Sbl",
+      "Lymphoma Sbl",
+      "Abdominal Tumor Was"
+    ]
+  },
+  {
+    "abstract_id": "31330830",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Drive Malignant Transformation",
+      "Carcinogenesis Namely",
+      "Cancer Death",
+      "From Neoplastic Serrated",
+      "Serrated Adenomaspolyps",
+      "Neoplastic Serrated Polyps",
+      "Serrated Adenomas",
+      "- Carcinoma Model An Alternative Multistep Mechanism",
+      "Cancer Crc A Leading Cause",
+      "Colorectal Cancer Crc",
+      "Malignant Transformation Normal",
+      "Conventional Adenoma-Carcinoma Model",
+      "Onventional Adenoma-Carcinoma Model",
+      "Serrated Adenomaspolyps Serrated"
+    ]
+  },
+  {
+    "abstract_id": "31612916",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Familial Pancreatic Adenocarcinoma",
+      "Invasive Ductal Carcinoma",
+      "Breast Cancer",
+      "Treating Cancer Patients",
+      "Liver Metastatic Foci",
+      "Metastatic Tumour",
+      "Pancreatic Adenocarcinoma Shrank",
+      "Platinum - Based Chemotherapy Treating Cancer Patients Who Harbour",
+      "Pancreatic Adenocarcinoma",
+      "Ductal Carcinoma",
+      "Pancreatic Adenocarcinoma Several",
+      "Pancreatic Adenocarcinoma At",
+      "Primary Pancreatic Adenocarcinoma",
+      "Metastasis No Longer Visible Using Imaging",
+      "Metastatic Foci Disappeared",
+      "Liver Metastasis Were",
+      "Low-Enhanced Metastatic Tumour",
+      "Pancreatic Adenocarcinoma She",
+      "Pancreatic Carcinoma",
+      "Her Pancreatic Adenocarcinoma"
+    ]
+  },
+  {
+    "abstract_id": "36738229",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cancer Shr",
+      "Solid Cancers Sscs",
+      "Cancers Sscs",
+      "Solid Cancer Shr"
+    ]
+  },
+  {
+    "abstract_id": "31373163",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Myeloid Leukemia Aml",
+      "Leukemia Aml"
+    ]
+  },
+  {
+    "abstract_id": "36066851",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Ovarian Cancer",
+      "Ovarian Cancer Hgsoc",
+      "Ovarian Cancer Here"
+    ]
+  },
+  {
+    "abstract_id": "31433233",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cell Myeloma Patients",
+      "Plasma Cell Myeloma Is",
+      "Plasma Cell Myeloma Patients Hungary",
+      "Plasma Cell Myeloma",
+      "Cell Myeloma Is",
+      "Hematological Malignancy"
+    ]
+  },
+  {
+    "abstract_id": "36930419",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Known Cancer",
+      "That Play Important Roles Cancer Biology",
+      "Cancer Biology",
+      "Known Cancer Genes",
+      "Tumor Mutation",
+      "Tumor Mutation Burden Tmb",
+      "Breast Cancer Tnbc"
+    ]
+  },
+  {
+    "abstract_id": "31498304",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Thyroid Cancer Tumorigenesis Results Not Only From",
+      "Thyroid Cancer Using",
+      "Thyroid Cancer Tumorigenesis",
+      "Develop Tumors Which",
+      "Tumor Growth And Upregulate Mirna Gene Targets",
+      "Human Tumor Xenograft",
+      "Reduce Tumor Growth",
+      "Cancer Diagnosis And Prognosis And Also Therapeutic Targets Adding An Extra Dimension Cancer Evaluation And Treatment",
+      "Cancer Diagnosis",
+      "Thyroid Cancer",
+      "Cancer Tumorigenesis Results",
+      "To Cancer Evaluation",
+      "Tumors Which",
+      "Thyroid Tumoral Cells",
+      "Cancer Herein",
+      "Tumoral Cells"
+    ]
+  },
+  {
+    "abstract_id": "31069152",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Well - Limited Tumors",
+      "Liver Cancer",
+      "Well-Limited Tumors",
+      "Massive Intratumor Tertiary",
+      "Apc Adenomatous Polyposis",
+      "Hepatoblastoma Hb",
+      "Anti-Tumor Immune"
+    ]
+  },
+  {
+    "abstract_id": "30887763",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Or Metastatic Disease The Identification",
+      "Or Metastatic Disease",
+      "Endometrial Cancer Ec",
+      "Fourth Most Common Malignancy",
+      "Tumorigenesis Leading The Development New Therapeutic Options",
+      "Tumor Infiltrating",
+      "Tumorigenesis Is",
+      "Environment Tumor Infiltrating",
+      "Common Malignancy",
+      "Uterine Cancer"
+    ]
+  },
+  {
+    "abstract_id": "36542815",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cns Lymphomas Cnsls Remarkably Heterogeneous Yet Identification Patients High Risk",
+      "Circulating Tumor",
+      "Brain Cancers Including",
+      "Cns Lymphomas Cnsls",
+      "To A Total 306 Tumor",
+      "Circulating Tumor Dna",
+      "306 Tumor Plasma"
+    ]
+  },
+  {
+    "abstract_id": "31046485",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Mrna Mirna And Lncrna May Improve Early Cancer Recognition Based Specific Crc - Related Patterns Detection",
+      "As The Circulating Tumor",
+      "Diagnosed Malignancy Colorectal",
+      "Colorectal Cancer Crc",
+      "Colorectal Cancer",
+      "Early Cancer Recognition",
+      "Circulating Tumor Cell"
+    ]
+  },
+  {
+    "abstract_id": "31330366",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Gastrointestinal Malignancy",
+      "To Carcinogenesis Genetic",
+      "Tract Malignancy That",
+      "Gastrointestinal Malignancy Throughout",
+      "Linked Carcinogenesis",
+      "Gallbladder Carcinoma Gbc",
+      "Malignancy That"
+    ]
+  },
+  {
+    "abstract_id": "31441848",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Renal Failure Severe Bleeding And Tumor Lysis Syndrome Tls",
+      "Pediatric Oncology",
+      "Pediatric Oncology Here",
+      "Rationale Tumor Rupture",
+      "Tumor Rupture",
+      "Multimodal Antineoplastic Treatment",
+      "Tumor Growth",
+      "Tumor Lysis",
+      "Rationale Tumor Rupture And Bleeding Initial Presentation",
+      "Neuroblastoma Nbl",
+      "Massive Tumor Growth",
+      "Abdominal Compartment Syndrome A Result Tumor Rupture And Bleeding"
+    ]
+  },
+  {
+    "abstract_id": "31168257",
+    "data_source": "train",
+    "extracted_diseases": [
+      "- Stage Vulvar Cancer The Department",
+      "Vulvar Cancer Cases",
+      "Vulvar Cancer Was",
+      "- Stage Vulvar Cancer",
+      "Cancer Cases",
+      "Vulvar Cancer",
+      "Cell Carcinomas",
+      "Were Squamous Cell Carcinomas Stage",
+      "Surgical Oncology",
+      "Vulvar Cancer Were"
+    ]
+  },
+  {
+    "abstract_id": "31068555",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Distinguished Lymphoma From",
+      "Lymphoma Ptcl",
+      "And Has Included A New Entity Based The Tumor Phenotypes Although Establishing The Classifications Based",
+      "T-Cell Lymphoma Ptcl",
+      "Tumor Phenotypes"
+    ]
+  },
+  {
+    "abstract_id": "36930112",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Between Tumor",
+      "Multiple Cancer Types",
+      "9 Tumors",
+      "Tumorigenesis Mechanism",
+      "Cancer - Related",
+      "Prognosis 9 Tumors",
+      "Pan - Cancer",
+      "Cancer-Related Fibroblasts",
+      "Tumorigenesis Mechanism This Gene",
+      "E Cancer Types"
+    ]
+  },
+  {
+    "abstract_id": "30961661",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Breast Cancer",
+      "Breast Cancer Specimens",
+      "Tumor Progression Including Breast Cancer",
+      "Breast Cancer Cells",
+      "Breast Cancer Indicating",
+      "Cancer Specimens",
+      "Breast Cancer Remain",
+      "Breast Cancer Were",
+      "Techniques Tumor-Related Omics",
+      "Cancer Cell",
+      "Breast Cancer Tnbc",
+      "Breast Cancer One",
+      "Breast Cancer Cells Interestingly We Found That Gtse1 Could Regulate The P53",
+      "Breast Cancer The Gtse1",
+      "Breast Cancer Remain Elusive",
+      "Breast Cancer Data",
+      "Tumor Progression",
+      "Enhance Metastasis",
+      "Cancer Genome",
+      "Pathway And Enhance Metastasis Regulating The Epithelial",
+      "Human Cancers However",
+      "Breast Cancer Was",
+      "Breast Cancer Cell"
+    ]
+  },
+  {
+    "abstract_id": "31338587",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Neuroendocrine Neoplasms",
+      "Neoplasms Showing",
+      "Ductal Adenocarcinomas",
+      "Cell Carcinomas Accs",
+      "Ductal Adenocarcinomas Or"
+    ]
+  },
+  {
+    "abstract_id": "31195689",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cause Cancer - Related Deaths A More Comprehensive Understanding The Molecular Mechanisms Underlying This Disease Crucial",
+      "Organoids Have Recently Emerged A Reliable Culture System Establish Models Both Normal And Neoplastic Pancreatic Tissues Pancreatic Organoid Cultures Can Efficiently Generated From",
+      "Pancreatic Cancer Patients",
+      "Ductal Adenocarcinoma Pda",
+      "Pancreatic Cancer",
+      "Precision Oncology",
+      "Cancer-Related Deaths",
+      "Oncology Enabling The Alignment Preclinical And Clinical Platforms Guide Therapeutic Intervention",
+      "Neoplastic Pancreatic",
+      "Pancreatic Ductal Adenocarcinoma"
+    ]
+  },
+  {
+    "abstract_id": "36930079",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Neck Squamous Cell Carcinoma",
+      "Tumor Microenvironment Has Also Increasingly Recognized However The Expression The Ikaros Family Zinc Finger 3 Ikzf3",
+      "Cell Carcinoma Hnscc",
+      "Tumor Microenvironment",
+      "Tumors Has",
+      "Few Years Immunotherapy Tumors Has"
+    ]
+  },
+  {
+    "abstract_id": "31335678",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tumors 3",
+      "Tumor Component",
+      "Tumor Cellularity R",
+      "Lid Tumor Size",
+      "I Tumors 3",
+      "- Tumorous Stromal Component",
+      "Depth And Tumor Cellularity",
+      "Lung Adenocarcinoma Pathologic",
+      "Real Tumor Component",
+      "Stage Ii Tumors",
+      "Tumor Microenvironment",
+      "Resected Tumors Maximum",
+      "Non-Tumorous Stromal",
+      "Lung Adenocarcinoma",
+      "Adenocarcinomas Prospectively",
+      "Lung Adenocarcinomas Were",
+      "Iiia Tumors Comprehensive",
+      "When Tumor Volume",
+      "Or Cellularityintratumor Heterogeneity",
+      "Tumors Maximum Standardized Uptake Value",
+      "Iiia Tumors",
+      "I Tumors",
+      "Solid Tumor Size",
+      "Effective When Tumor Volume Consists",
+      "Tumor Cellularity",
+      "Tumor Cellularityintratu",
+      "Tumor Microenvironmentin"
+    ]
+  },
+  {
+    "abstract_id": "31505033",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Sialadenoma Papilliferum",
+      "Cystadenoma And Cystadenocarcinoma Two",
+      "Configuration Cystadenocarcinomas Invaded",
+      "Mucinous Neoplasm Ipmn",
+      "Configuration Cystadenocarcinomas Invaded The Surrounding",
+      "Various Types Neoplasm",
+      "Iguration Cystadenocarcinomas Invaded",
+      "Neoplasm Thus",
+      "Both Cystadenomas And Cystadenocarcinomas Showed",
+      "Cystadenocarcinomas Showed",
+      "Key Oncogenes",
+      "Cystadenocarcinoma Two",
+      "Papilloma Cystadenoma",
+      "Both Cystadenomas",
+      "Oncogenes The Histological Classifications"
+    ]
+  },
+  {
+    "abstract_id": "31065274",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tumor Relapse Fusing",
+      "Antitumor Immunity",
+      "Tumor Relapse",
+      "Residual Tumor Cells",
+      "Multiple Tumor Stem",
+      "Tumor Cells",
+      "Tumor Cells That"
+    ]
+  },
+  {
+    "abstract_id": "31263500",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Ovarian Cancer",
+      "Cancer Positive Or False - Positive Ascites Cytology Discovered",
+      "Endometrial Cancer",
+      "Hereditary Breast And Ovarian Cancer",
+      "Hereditary Cancers Methods",
+      "Patients Hereditary Cancers",
+      "Cancer Positive Ascites",
+      "Ovarian Cancer Hboc",
+      "Hereditary Cancer Positive",
+      "Hereditary Cancers Identified Via",
+      "A Patient Endometrial Cancer",
+      "Hereditary Cancers Identified"
+    ]
+  },
+  {
+    "abstract_id": "31167492",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Ovarian Carcinoma Growth",
+      "Such Circulating Tumor Cells",
+      "Epithelial Cancer",
+      "Moreover Tumor Sample",
+      "High Throughput Tumor Molecular",
+      "Throughput Tumor Molecular",
+      "Circulating Tumor Biomarkers",
+      "Recent Years Circulating Tumor",
+      "Ovarian Cancers Ovc",
+      "Circulating Tumor Cells"
+    ]
+  },
+  {
+    "abstract_id": "31185671",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Hematological Neoplasms",
+      "Tumor Burden",
+      "Detection And Follow - Up Tumor Burden"
+    ]
+  },
+  {
+    "abstract_id": "31350313",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Tumor Tissues",
+      "Breast Cancer",
+      "Circulating Tumor Dna Ctdna",
+      "Cancer Tissues This",
+      "Breast Cancer Who",
+      "Tumor Mutation",
+      "Tumors Deeply Sequenced Via Next",
+      "Intratumor Heterogeneities Ithgs",
+      "Remote Metastasis",
+      "Breast Cancerexperimental Design",
+      "Profound Intratumor Heterogeneities",
+      "Metastasis The Ctdna - Positive Rates",
+      "Breast Tumors Were",
+      "Node Metastasis Indicating",
+      "Cancer Who Need Chemotherapy",
+      "The Tumor Mutation",
+      "Cancer Conclusions",
+      "Mortality Breast Cancer Significantly Assessments Genetic",
+      "Circulating Tumor Dna",
+      "Results Cancer Tissues",
+      "Her2 Tumor Subtypes",
+      "Breast Cancer Significantly"
+    ]
+  },
+  {
+    "abstract_id": "31367542",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Repair-Deficient Tumors Current",
+      "Cancer Nsclc",
+      "- Deficient Tumors",
+      "High Tumor Mutational",
+      "Patients High Tumor",
+      "Areas Oncology",
+      "Tumor Progression",
+      "Adenocarcinoma Component",
+      "An Adenocarcinoma",
+      "Oncology To",
+      "Lung Cancer Nsclc",
+      "At The Time Initial Diagnosis And Tumor Progression"
+    ]
+  },
+  {
+    "abstract_id": "30933052",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Colorectal Cancer Crc",
+      "Cancer Diagnosis",
+      "Cancer Crc",
+      "Biomarkers Cancer"
+    ]
+  },
+  {
+    "abstract_id": "36736685",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Endometrial Cancers",
+      "Deficient Tumors",
+      "Endometrial Cancers Here",
+      "From Tumor Saliva"
+    ]
+  },
+  {
+    "abstract_id": "31278395",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cancer Genome",
+      "Carcinoma Rcc",
+      "Cell Carcinoma Rcc"
+    ]
+  },
+  {
+    "abstract_id": "30909992",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Lung Adenocarcinoma Patients",
+      "Lung Adenocarcinoma Were",
+      "Cancer Nsclc",
+      "Lung Adenocarcinoma",
+      "- Mutant Lung Adenocarcinoma",
+      "Lung Cancer Nsclc",
+      "Wild - Type Lung Adenocarcinoma",
+      "Lung Adenocarcinoma Methods"
+    ]
+  },
+  {
+    "abstract_id": "33649522",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Free Cancer At",
+      "Incident Cancer",
+      "Incident Cancer Hr",
+      "Incident Cancer Amongst",
+      "Cancer At",
+      "Using Cox Modeling The Prediction Incident Cancer",
+      "Incident Cancer Was",
+      "Incident Cancer Possibly",
+      "Evaluation The Risk Incident Cancer",
+      "Associated Higher Risk Incident Cancer"
+    ]
+  },
+  {
+    "abstract_id": "36929286",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Hepatocellular Carcinoma",
+      "Cancer Cells",
+      "Hepatocellular Carcinoma Hcc",
+      "Stromal Cells And Provoking Cytotoxic Effects The Cancer Cells"
+    ]
+  },
+  {
+    "abstract_id": "30938815",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Breast Cancer",
+      "5 Mbc Patients The Risk Contralateral Breast Cancer",
+      "Initial Breast Cancer Diagnosis And Treatment",
+      "The Tumor Diagnosis And Similar Treatment Paradigms Have",
+      "Breast Cancer Continues",
+      "Breast Cancer Developing",
+      "Breast Cancer Are",
+      "Breast Cancer Diagnosis",
+      "Cancer Continues",
+      "Breast Cancer Mbc",
+      "Breast Cancer Is",
+      "Tumor At",
+      "Contralateral Breast Cancer",
+      "Male Breast Cancer Mbc"
+    ]
+  },
+  {
+    "abstract_id": "31137165",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Breast Cancer",
+      "Breast Cancer Methods",
+      "Her - 2 Positive Breast Cancer",
+      "Breast Cancer Cells",
+      "Cancer Cell",
+      "Breast Cancer Cell"
+    ]
+  },
+  {
+    "abstract_id": "36835468",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cancer Study Aging",
+      "Colon Tumorigenesis",
+      "I And The Incidence Colon Cancer",
+      "Colon Cancer Apcsupminsup",
+      "Precancerous Lesions",
+      "Sup Mice Experienced Aggravated Tumorigenesis",
+      "Spontaneous Precancerous Lesions",
+      "Colon Cancer Patients",
+      "Spontaneous Cancer Study",
+      "Colorectal Cancer",
+      "Colon Cancer Incidence",
+      "Abated Anti-Tumor Cd8",
+      "Cancer Here We Investigate The Role",
+      "Aggravated Tumorigenesis",
+      "Colon Cancer Here",
+      "Towards Anti-Tumor Immune",
+      "Colon Cancer",
+      "Colon Tumorigenesis Shifting The Balance Towards Anti -",
+      "I Variants And Colon Cancer Incidence Aging Cb2"
+    ]
+  },
+  {
+    "abstract_id": "31317679",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cancer - Predisposition Syndrome",
+      "Cancer Development",
+      "Breast And Ovarian Cancers",
+      "Hereditary Cancer-Predisposition Synd",
+      "Familial Cancers Is",
+      "Ovarian Cancers"
+    ]
+  },
+  {
+    "abstract_id": "36610490",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Hodgkin Lymphoma Nhl",
+      "Non-Hodgkin Lymphoma Nhl",
+      "Hodgkin Lymphoma",
+      "Non-Hodgkin Lymphoma This"
+    ]
+  },
+  {
+    "abstract_id": "36607719",
+    "data_source": "train",
+    "extracted_diseases": [
+      "105 Glioma Samples",
+      "Glioma Samples",
+      "Determining Tumor Margins",
+      "37 Glioma Samples",
+      "Era The Diagnosis And Treatment Systems Glioma Have Also",
+      "Glioma Have",
+      "Tumor Molecular",
+      "Using The Technical Advantages Multipoint Synchronous Detection We Determined The Tumor",
+      "Glioma Samples Were"
+    ]
+  },
+  {
+    "abstract_id": "30898933",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Substantial Increase Tumor",
+      "Tumorigenesis Unclear",
+      "Adenomatous Polyposis",
+      "Enhance Tumorigenesis",
+      "Tumor Size",
+      "Intestinal Tumors",
+      "Support Tumor Growth",
+      "Colorectal Cancer Whether",
+      "Tumors Fructose",
+      "Tumors Transported",
+      "Tumor Grade",
+      "Tumor Growth",
+      "To Tumorigenesis Is"
+    ]
+  },
+  {
+    "abstract_id": "36621911",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Pathogenesis Parathyroid Carcinoma",
+      "Parathyroid Carcinoma Typically",
+      "Parathyroid Carcinoma Cdc73",
+      "Parathyroid Carcinoma Is",
+      "Parathyroid Carcinoma",
+      "Parathyroid Carcinoma No"
+    ]
+  },
+  {
+    "abstract_id": "36929451",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Improving The Prognosis Glioma Patients",
+      "Tumor Growth And Immune Microenvironment Well As",
+      "Spatial Transcriptome Glioma Patients",
+      "Synergy Tumor Progression",
+      "To Tumor Growth",
+      "Tumor Progression",
+      "Tumor Microenvironment",
+      "Glioma Identifying Prognostic Indicators",
+      "Glioma Patients",
+      "Glioma Identifying",
+      "Glioma Progression"
+    ]
+  },
+  {
+    "abstract_id": "30906574",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Oncogene Have A Poorer Prognosis Using Trastuzumab",
+      "Introduction Tumors Over-Expressing",
+      "Its Proto-Oncogene Have",
+      "Her2 Tumors Making"
+    ]
+  },
+  {
+    "abstract_id": "36801606",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Colorectal Cancer Liver -",
+      "Colorectal Cancer Liver-Only"
+    ]
+  },
+  {
+    "abstract_id": "31547595",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Rare Tumor Cell",
+      "Intra-Tumoral Heterogeneity",
+      "Several Cancer Candidate",
+      "Human Cancers",
+      "Tumor Progression",
+      "To Cancer Therapies",
+      "Cancer Therapy",
+      "About Cancer Biology Underlining",
+      "Cancer Genomics",
+      "Tumors Being Vital",
+      "Intra - Tumoral",
+      "Tumors Being",
+      "Cancer Initiation",
+      "About Cancer Biology",
+      "Tumor Molecular",
+      "To Cancer",
+      "Precision Cancer Therapy",
+      "Cancers And To",
+      "Identification Several Cancer Candidate"
+    ]
+  },
+  {
+    "abstract_id": "31209238",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Characterized Cancer Cell",
+      "Short-Lived Tumors Often",
+      "Molecularly Characterized Cancer Cell",
+      "Tumors Often",
+      "Most Cancer Targeted"
+    ]
+  },
+  {
+    "abstract_id": "31027705",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Adenocarcinomas Adjusted",
+      "Tumors Considered Positive",
+      "Nsclc Tumors Are",
+      "The Squamous Cell Carcinomas",
+      "Tumors 1 5 25 Cut - Offs",
+      "Non-Metastatic Adenocarcinoma Patients",
+      "Larger Tumors 1525",
+      "Non - Small Cell Lung Cancer",
+      "1 5 25 50 Neoplastic Cell",
+      "Centers Adenocarcinomas Represent",
+      "Between Adenocarcinomas",
+      "Cell Carcinomas Conclusion",
+      "152550 Neoplastic Cell",
+      "Adenocarcinoma Results",
+      "Adenocarcinomas Represent",
+      "Lung Cancer",
+      "Lung Cancer Nsclc",
+      "Non-Metastatic Adenocarcinoma"
+    ]
+  },
+  {
+    "abstract_id": "31307558",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Malignant Phyllodes",
+      "Nonpolyposis Colorectal Cancer",
+      "Multiple Cancer Types",
+      "Searchable Cases Malignant",
+      "Types The Known Cancers Associated Lynch Syndrome Include",
+      "Hereditary Cancer",
+      "Hereditary Cancer Test",
+      "Endometrial Cancers As",
+      "The Basis Her Cancer Diagnosis",
+      "History Multiple Cancers",
+      "Endometrial Cancers",
+      "Phyllodes Tumor",
+      "Well Cancers",
+      "Multiple Cancers",
+      "Known Cancers Associated",
+      "Colorectal Cancer Is",
+      "Cancers As",
+      "Cell Neoplasm Definitive",
+      "Her Cancer Diagnosis"
+    ]
+  },
+  {
+    "abstract_id": "36889321",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Antitumor Activity And Multiomics Potential Predictive",
+      "Pancreatic Cancer Lapc",
+      "Circulating Tumor Dna",
+      "Borderline Resectable Pancreatic Cancer Lapc",
+      "Promising Antitumor Activity"
+    ]
+  },
+  {
+    "abstract_id": "36422647",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Nasopharyngeal Carcinoma Lrnpc",
+      "Recurrent Nasopharynx Tumors",
+      "Nasopharynx Tumors Were",
+      "Metabolic Tumor Volume",
+      "University Cancer Center",
+      "Recurrent Nasopharyngeal Carcinoma Lrnpc"
+    ]
+  },
+  {
+    "abstract_id": "31016433",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Breast Tumors",
+      "Infiltrates And Include Several Subpopulations Either Anticancer Or Pro",
+      "Breast Cancer",
+      "Distinct Tumor-Associated T",
+      "Tumors Related Distinct Tumor - Associated T Cell Compos",
+      "Non-Luminal Tumors Is",
+      "Breast Cancer Tnbc",
+      "Breast Cancers Different Phenotypes And Suggest",
+      "Tumors And The Pre",
+      "Either Anticancer Or",
+      "Cancer Tissue",
+      "Tumor Size Luminal",
+      "Greater Tumor Size",
+      "Tumor-Associated Infiltra",
+      "Luminal Tumors",
+      "Or Pro-Tumorigenic Functions",
+      "- Tumorigenic",
+      "Breast Cancers",
+      "Breast Cancer Tissue",
+      "Breast Tumors Were",
+      "Tumor - Associated Infiltrates",
+      "Breast Cancer Molecular"
+    ]
+  },
+  {
+    "abstract_id": "36789775",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Myeloid Neoplasm Requiring",
+      "Hematologic Neoplasms",
+      "Myeloproliferative Neoplasm",
+      "Myeloproliferative Neoplasms As",
+      "Neoplasm Requiring",
+      "Myeloid Neoplasm Were",
+      "Neoplasms Potential Stroke Etiologies"
+    ]
+  },
+  {
+    "abstract_id": "31049933",
+    "data_source": "train",
+    "extracted_diseases": [
+      "T-Cell Lymphoma Ctcl",
+      "T-Cell Leukaemialymphoma Including",
+      "Malignant Mechanisms",
+      "Background The Malignant Mechanisms That",
+      "T-Cell Lymphoma-Associated Genes",
+      "Lymphoma Ctcl Beginning Be Identified Recent Evidence"
+    ]
+  },
+  {
+    "abstract_id": "36790533",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Melanoma Cells"
+    ]
+  },
+  {
+    "abstract_id": "31215094",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Metastatic Thoracic",
+      "Nonmetastatic Primary",
+      "As Adenocarcinomas Eacs",
+      "Carcinogenesis And Cancer Progression",
+      "At Higher Degrees Malignancy G6Pd Overexpression",
+      "Cancer Tissue",
+      "Esophageal Cancer Tissue",
+      "Activation Compared The Nonneoplastic Tissues",
+      "Causes Cancer Onset",
+      "Malignancy G6Pd",
+      "Accelerate Cancer Progression",
+      "Ppp Higher Degrees Malignancy",
+      "Facilitating Carcinogenesis",
+      "Cancer Progression",
+      "Nonneoplastic Squamous",
+      "Cancer Onset And Progression",
+      "Nonneoplastic Tissues",
+      "Malignancy While",
+      "Lines Cancers Developed",
+      "From A Nonmetastatic Primary",
+      "Carcinomas Esccs",
+      "Cell Carcinomas Esccs",
+      "F Neoplastic"
+    ]
+  },
+  {
+    "abstract_id": "30955263",
+    "data_source": "train",
+    "extracted_diseases": [
+      "-Differentiated Liposarcomatous Component",
+      "Myofibroblastic Sarcoma",
+      "Sclerosing Liposarcoma",
+      "Sclerosing Liposarcoma Inflammatory",
+      "Inflammatory Liposarcoma",
+      "Remaining Two Patients Alive No Evidence Tumor Recurrence 3 And 14 Months After",
+      "Had Metastasis",
+      "Low-Grade Fibrosarcoma",
+      "Neoplasm Than Its Histological Mimic Imt",
+      "Low-Grade Malignant Tumors",
+      "Grade Fibrosarcoma",
+      "Fibrous Tumors Low-Grade",
+      "Malignant Tumors Such",
+      "Malignant Tumors",
+      "Tumors One",
+      "Tumor Recurrence",
+      "All The Tumors",
+      "Low - Grade Myofibroblastic Sarcoma",
+      "Inflammatory Liposarcoma Aggressive",
+      "Sarcomatous Component",
+      "Tumors Were",
+      "Aggressive Neoplasm Than",
+      "Myofibroblastic Tumor Imt",
+      "Edifferentiated Liposarcoma Ddlps",
+      "Myofibroblastic Tumor Imt-Like",
+      "Tumor Cells",
+      "Dedifferentiated Liposarcoma",
+      "Tumor Imt",
+      "Were Used Detect The Immunophenotype The Tumor Cells And The Profile Mdm2 Gene"
+    ]
+  },
+  {
+    "abstract_id": "31239718",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Metastasis Os The Lungs",
+      "Possesses Antitumor Properties",
+      "Treatment Osteosarcoma",
+      "Tissues Osteosarcoma Tissues",
+      "Diagnosis Treatment And Prognosis Tumors",
+      "Metastatic Tumors And Higher",
+      "Possesses Antitumor Properties Integrin Subunit",
+      "Metastatic Tumors",
+      "Non-Tumorous Tissues",
+      "Lung Metastasis",
+      "Osteosarcoma Os",
+      "Tumors Purpose",
+      "And Metastatic Tumors The Expression Itgav",
+      "Primary Malignant Bone",
+      "Bone Tumor Hence",
+      "Tissues Osteosarcoma",
+      "Background Osteosarcoma Os",
+      "Metastasis Osteosarcoma"
+    ]
+  },
+  {
+    "abstract_id": "30952820",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cancer Completed",
+      "Addicted Tumors Have Superior Hus Implications",
+      "Oncogene-Addicted Tumors Have",
+      "Cancer Nsclc",
+      "Egfrm And Alkr Patients Exhibiting Disease Control And Those Oncogene",
+      "Lung Cancer Brain",
+      "Lung Cancer Is",
+      "Lung Cancer Nsclc",
+      "Lung Cancer Completed",
+      "Lung Cancer",
+      "Oncogene-Addicted Tumors"
+    ]
+  },
+  {
+    "abstract_id": "31507098",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Lung Cancer Nsclc",
+      "Cancer Nsclc"
+    ]
+  },
+  {
+    "abstract_id": "31294922",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Distant Metastasis",
+      "T Inhibited Metastasis",
+      "Hepatic Carcinoma",
+      "Hcc Metastasis And Presents Nnmt As",
+      "Hepatic Carcinoma Cells",
+      "Hcc Metastasis",
+      "Inhibited Metastasis",
+      "Invasion And Metastasis",
+      "Hepatocellular Carcinoma Hcc"
+    ]
+  },
+  {
+    "abstract_id": "31296812",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Breast Cancer",
+      "Measures Against Hereditary Tumors",
+      "Ovarian Cancerhbocsyndrome",
+      "Hereditary Tumors There",
+      "Cancer Chemotherapy",
+      "Tumors There Also An Urgent Need",
+      "Hereditary Tumors Such",
+      "Hereditary Tumors However",
+      "Ovarian Cancer Hboc"
+    ]
+  },
+  {
+    "abstract_id": "31220642",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Or Other Lynch Syndrome - Related Tumors",
+      "Colorectal Cancer Crc",
+      "Syndrome-Related Tumors Between",
+      "Colorectal Tumors Had"
+    ]
+  },
+  {
+    "abstract_id": "30914778",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cancer Nsclc",
+      "Carcinomas Or",
+      "Differentiated Adenocarcinomas",
+      "Lung Cancer Biopsies",
+      "Cancer Biopsies",
+      "Nsclc Tumors",
+      "Undifferentiated Cancer",
+      "Neuroendocrine Carcinoma Lcnec",
+      "Cell Carcinoma Sqcc",
+      "Tumors Adenocarcinoma Ac Squamo",
+      "Poorly Differentiated Adenocarcinomas",
+      "Carcinoma Lcnec",
+      "Adenocarcinoma Ac",
+      "Cell Carcinomas Or",
+      "Lung Cancer Nsclc",
+      "Carcinoma Sqcc"
+    ]
+  },
+  {
+    "abstract_id": "36929074",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Identify Cancer Molecular",
+      "Identifying Cancer Molecular",
+      "Identifying Cancer",
+      "Cancer Multi-Omics",
+      "Cancers Are",
+      "Uveal Melanoma",
+      "Cancers Heterogeneous Diseases",
+      "Lower - Grade Glioma Illustrate",
+      "Lower-Grade Glioma To",
+      "Increasingly Used Identify Cancer"
+    ]
+  },
+  {
+    "abstract_id": "30953464",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cancer Related",
+      "Cancer Such Mutyh - Associated Polyposis Autosomal Genetic Syndrome",
+      "Colorectal Cancer Hereditary",
+      "Mucinous Adenocarcinoma",
+      "Cancers Can Attributed Syndromes Known Cause Hereditary",
+      "Colorectal Cancers Can",
+      "Differentiated Mucinous Adenocarcinoma And Multiples Sessile",
+      "Colorectal Cancer Such",
+      "To Tumors Approximately",
+      "Cancer Hereditary Syndrome",
+      "Intussusception Colorectal Cancer",
+      "Colorectal Cancer Is"
+    ]
+  },
+  {
+    "abstract_id": "31681586",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Cancers Including",
+      "Myeloid Leukemia Aml",
+      "Cancer Genome",
+      "Childhood Leukemias",
+      "Acute Myeloid Leukemia",
+      "Adult Leukemias",
+      "Leukemias And 15",
+      "Childhood Leukemias Aml"
+    ]
+  },
+  {
+    "abstract_id": "31368038",
+    "data_source": "train",
+    "extracted_diseases": [
+      "Neuroendocrine Neoplasms Nens Develop",
+      "Neuroendocrine Neoplasms",
+      "Cancer Biology",
+      "Rare Cancer Types",
+      "Neuroendocrine Neoplasms Has",
+      "Data Neuroendocrine Neoplasms",
+      "Neuroendocrine Neoplasms Nens",
+      "Such Neuroendocrine Neoplasms Has",
+      "Rare Cancer"
+    ]
+  },
+  {
+    "abstract_id": "30897768",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Breast Cancer Taking Into Account",
+      "Cancer Biomarkers",
+      "Breast Cancer Risk",
+      "Snps Predict Patient Cancer Risk Prognosis And Outcomes Further Study Mir",
+      "Promising Cancer Biomarkers",
+      "Patient Cancer Risk",
+      "Breast Cancer Taking",
+      "Cancer Diagnostics"
+    ]
+  },
+  {
+    "abstract_id": "31299995",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Cell Carcinoma Lusc",
+      "Carcinoma Lusc",
+      "Distinct Prognosis Classifying Tumor - Immune Microenvironment Based Pd",
+      "Classifying Tumor-Immune Microenviron",
+      "Tumor Mutation",
+      "Cd8 Tumor-Infiltrating Lympho"
+    ]
+  },
+  {
+    "abstract_id": "31249854",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Cell Myeloma Prompt",
+      "Lymphoma The Cervix From",
+      "Carcinoma It Can Difficult Differentiate",
+      "Plasmablastic Plasma Cell Myelomas",
+      "Plasmablastic Lymphoma",
+      "Cell Myelomas",
+      "Cell Myeloma",
+      "Cell Carcinoma It",
+      "Genital Plasma Cell Myeloma",
+      "Cell Myeloma The Clinician Must Rely Clinical Laboratory And Radiologic Findings Diagnose"
+    ]
+  },
+  {
+    "abstract_id": "30987226",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Tumor Development",
+      "Cancer Stem Cells",
+      "Peritumoral Tissue",
+      "Is Considered An Immunologically Cold Tumor Several Studies",
+      "As Tumor-Initiating Cells",
+      "Make These Tumors Extremely Recidivist Resulting In",
+      "Brain Tumors At",
+      "Peritumoral Tissue The Aim",
+      "Tumor Immune",
+      "Tumor Development And Progression Recent Findings Also Indicated The Presence Highly",
+      "Brain Tumors",
+      "Recurrence And Poor Prognosis Deeper Insight Into The Tumor Immune Microenvironment",
+      "Cancer Stem",
+      "Peritumoral Region",
+      "Cold Tumor Several",
+      "Tumor Growing And Recurrence",
+      "Of The Peritumoral Region Associated Progression And Recurrence",
+      "These Tumors Extremely",
+      "Tumor Growing",
+      "Glioblastoma Gbm",
+      "Highly Immunosuppressive Tumor Microenvironment That",
+      "Immunosuppressive Tumor Microenvironment"
+    ]
+  },
+  {
+    "abstract_id": "31516752",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Cancer Specimens",
+      "Prostate Cancer",
+      "Cancer Patients",
+      "Nodal Metastasis",
+      "Prostate Cancer Specimens",
+      "Tumor Phenotype",
+      "Advanced Tumor Stage",
+      "Psp94-Negative Cancer Specimens",
+      "Prostate Cancer However",
+      "Tumor Stage And Nodal Metastasis P",
+      "Tumor Phenotype Patient Prognosis Tmprss2 Erg Fusion Status Ezh2 Expression And Pten Deletion"
+    ]
+  },
+  {
+    "abstract_id": "31540291",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Myeloid Neoplasms Mn",
+      "Myeloid Leukemia Patients",
+      "Leukemia Patients Using",
+      "Neoplasms Mn"
+    ]
+  },
+  {
+    "abstract_id": "31054046",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Breast Cancer",
+      "Malignant Neoplasms Contributes",
+      "Leiomyosarcoma Was",
+      "Appendiceal Adenocarcinoma After",
+      "Metastatic Her2-Positive",
+      "Second Malignancy Is",
+      "Osteosarcoma May",
+      "Second Malignant Neoplasm",
+      "Inherited Cancer Predisposition",
+      "New Neoplasm Although",
+      "Second Malignant Neoplasms",
+      "Malignant Neoplasms",
+      "Breast Cancer Genetic",
+      "Metastatic Her2 -",
+      "Localised Osteosarcoma Has",
+      "Among Osteosarcoma Survivors",
+      "Osteosarcoma Who",
+      "Malignant Neoplasm",
+      "Osteosarcoma Survivors"
+    ]
+  },
+  {
+    "abstract_id": "31533138",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Cancer Neoantigens",
+      "Colorectal Carcinomas Are",
+      "Colorectal Cancer",
+      "The Tumor Microenvironment The Peritumoral",
+      "High Tumor Stroma",
+      "Type Carcinomas Are",
+      "Medullary Carcinomas Present",
+      "Tumor Stroma",
+      "Tumor Microenvironment",
+      "Tumor Stroma Ratio The High Load"
+    ]
+  },
+  {
+    "abstract_id": "31608732",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Lung Cancer Prompted The Evaluation Novel Diagnostic Tools",
+      "Tumor Through",
+      "Traditional Tumor Genotyping",
+      "And Circulating Tumor Cells Ctcs",
+      "Lung Cancer Prompted",
+      "Circulating Tumor Cells",
+      "Lung Cancer Mainly",
+      "From Advancedmetastatic Disease",
+      "Lung Cancer Already",
+      "Metastatic Disease Novel Frontiers Such Early Detection",
+      "Lung Cancer",
+      "Tumor Genotyping"
+    ]
+  },
+  {
+    "abstract_id": "36719787",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "That Intratumor",
+      "Local Tumor Treatment A Feasible",
+      "Local Tumor Treatment",
+      "Antitumor Effect",
+      "Inhibiting Tumor Growth",
+      "Inhibits Glioblastoma Growth",
+      "Antitumor Immunity",
+      "Situi Antitumor Immune",
+      "Measure Patients Glioblastoma",
+      "I Antitumor Immune Response Furthermore The Combination",
+      "Tumors Impact Statement We Report A Novel And Effective Strategy",
+      "Inhibits Glioblastoma",
+      "That Intratumor Injection",
+      "Glioblastoma Gbm",
+      "Tumors Impact"
+    ]
+  },
+  {
+    "abstract_id": "30878469",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Hepatocellular Carcinoma",
+      "Hepatocellular Carcinoma Hcc",
+      "Light Hcc Tumor Burden Degree Liver Dysfunction",
+      "Hcc Tumor Burden"
+    ]
+  },
+  {
+    "abstract_id": "31025086",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Astrocytic Gliomas Without",
+      "Neuroepithelial Tumors Their",
+      "Diffuse Gliomas Are",
+      "Tumors The Central",
+      "Oligodendroglial Tumors",
+      "Gliomas Glioblastoma Idh-Wildtype",
+      "Distinct Glioma Entity",
+      "Diffuse Gliomas",
+      "Idh-Wildtype Gliomas",
+      "Diffuse Gliomas Is",
+      "Midline Gliomas H3-K27M-Mutant",
+      "Diffuse Gliomas Can",
+      "Glioblastoma Idh-Wildtype",
+      "Oligodendroglial Gliomas Are",
+      "Oligodendroglial Gliomas Gliomatosis",
+      "These Tumors",
+      "Diffuse Midline Gliomas",
+      "Endroglial Gliomas Gliomatosis",
+      "Diffuse Glioma Diffuse",
+      "Astrocytic Gliomas Glioblastoma",
+      "Gliomas Is",
+      "These Tumors Materials",
+      "Gliomas And Summarizes",
+      "Idh - Wildtype Diffuse Gliomas",
+      "Idh-Mutant Gliomas Oligodendroglial",
+      "Gliomas Are",
+      "Oligodendroglial Tumors Are"
+    ]
+  },
+  {
+    "abstract_id": "31002019",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Carcinoma Hboc",
+      "Brca1 2 - Deficient Tumors And Also Crucial",
+      "L Adenocarcinoma",
+      "Neoplasm Dismal Prognosis Insights Into",
+      "Cell Carcinoma Hboc",
+      "Brca12-Deficient Tumors",
+      "Cell Carcinoma Acc",
+      "Pancreatic Neoplasm",
+      "Ovarian Cancer Loh",
+      "Allele The Tumor Indicated",
+      "Ductal Adenocarcinoma Pp",
+      "Tumor Indicated"
+    ]
+  },
+  {
+    "abstract_id": "36927529",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Tumor Tissues",
+      "Optimize The Antitumor Function Nk Cells Via The Co - Stimulation",
+      "Liver Metastasis",
+      "Impaired Antitumor Function Nk Cells",
+      "Antitumor Function",
+      "Modulating Tumor Microenvironment To",
+      "Tumorigenesis However",
+      "Adjacent And Tumor Tissues And Intrahepatic Macrophages Global",
+      "Colorectal Cancer Crc",
+      "1\u0392 Macrophages Which Optimized Antitumor Activity Nk Cells",
+      "Impaired Antitumor Function",
+      "Tumor Burden",
+      "Their Metastatic Burden",
+      "Suppress Tumor Growth",
+      "Cancer Crc",
+      "Colon Carcinoma Cells",
+      "Tumor Growth",
+      "Optimized Antitumor Activity",
+      "Modulating Tumor Microenvironment",
+      "Liver Metastasis Global",
+      "Metastasis Global Or",
+      "Increased Tumor Burden"
+    ]
+  },
+  {
+    "abstract_id": "31538107",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Malignant Struma Ovarii",
+      "Follicular Carcinoma Is",
+      "Follicular Carcinoma",
+      "Tumor Samples Were",
+      "Tumorigenesis Remains",
+      "Thyroid Carcinoma",
+      "Thyroid Carcinoma Tumor",
+      "Malignant Struma",
+      "Carcinoma Extremely Rare",
+      "Thyroid Carcinoma Was",
+      "Tumor Consisted",
+      "Origin Primary Thyroid Cancer Was",
+      "Tumorigenesis From",
+      "Carcinoma Tumor Samples",
+      "Thyroid Cancer Was",
+      "Tumorigenesis That",
+      "50 Cancer-Related Genes",
+      "Tumorigenesis Remains Unknown Here We"
+    ]
+  },
+  {
+    "abstract_id": "30937513",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Cell Leukemia Were",
+      "Leukemia This Result",
+      "Cell Leukemia Diagnosed",
+      "Cell Leukemia Presenting",
+      "Lymphoma Infiltration Of",
+      "Hairy Cell Leukemia",
+      "Reached Pulmonary Infiltrates Hairy Cell Leukemia",
+      "- Old Male Patient Suffering Hairy Cell Leukemia",
+      "Cell Leukemia This",
+      "Between Lymphoma Infiltration"
+    ]
+  },
+  {
+    "abstract_id": "30970592",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Detected Tumoral Lesions",
+      "Testicular Cancer"
+    ]
+  },
+  {
+    "abstract_id": "31321732",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Immortalized Non-Neoplastic Oral",
+      "Oral Cancer However",
+      "Oral Cancer Patients",
+      "Oral Cancer",
+      "Model Using Immortalized Non - Neoplastic"
+    ]
+  },
+  {
+    "abstract_id": "31197228",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Prostate Cancer Pca"
+    ]
+  },
+  {
+    "abstract_id": "31348551",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Plasmablastic Lymphoma Pbl"
+    ]
+  },
+  {
+    "abstract_id": "36343306",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Tumor Evolution",
+      "During Tumor Evolution",
+      "Multiple Myeloma Mm",
+      "Multiple Myeloma"
+    ]
+  },
+  {
+    "abstract_id": "36708875",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Neuroblastoma Nb"
+    ]
+  },
+  {
+    "abstract_id": "31304427",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Recent Times Providing Further Insight Into Pdac Carcinogenesis",
+      "Ductal Adenocarcinoma Pdac",
+      "Histopathological Tumor Grading",
+      "Histopathological Tumor Grading And The So - Called Lymph Node Ratio Lnr",
+      "Pdac Carcinogenesis",
+      "Malignancy And Estimated To",
+      "Cancer-Related Deaths",
+      "Pdac Tumor Regression",
+      "Aggressive Malignancy",
+      "Pancreatic Ductal Adenocarcinoma"
+    ]
+  },
+  {
+    "abstract_id": "31641593",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Hotspot Oncogenes",
+      "Sarcoma Renal Mfh Is",
+      "Tissue Sarcoma Renal",
+      "Used Ion Ampliseq Cancer Hotspot Panel Version 2",
+      "Hotspot Oncogenes Csf1R",
+      "Ampliseq Cancer Hotspot",
+      "Malignant Fibrous"
+    ]
+  },
+  {
+    "abstract_id": "31602010",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Cell Carcinoma Prcc",
+      "Cell Carcinoma Rcc",
+      "Carcinoma Rcc"
+    ]
+  },
+  {
+    "abstract_id": "31167998",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Myeloid Leukemia Aml",
+      "Girl Acute Myeloid Leukemia"
+    ]
+  },
+  {
+    "abstract_id": "31385070",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Tumor Recurred",
+      "Tumor Showed",
+      "Mga-Nutm1 Sarcomas Suggesting",
+      "Emergence A Distinct Tumor",
+      "Resection The Tumor Recurred",
+      "Distinct Tumor Subtype",
+      "Tumor Showed Uniform Oval Spindle Cell",
+      "Bcor-Associated Sarcoma After",
+      "We Here Document A Sarcoma A Recently Reported Mga - Nutm1 Fusion A 49 -"
+    ]
+  },
+  {
+    "abstract_id": "30980196",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Promising Anticancer Drugs",
+      "Gastric Cancer",
+      "Gastric Carcinogenesis Specific",
+      "Gastric Cancer Gc",
+      "Carcinogenesis Specific Inhibitors These Molecules May Also Promising Anticancer",
+      "Human Cancers Is",
+      "Characterize Cancer Stem",
+      "Cancer Stem"
+    ]
+  },
+  {
+    "abstract_id": "31341411",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Cancer Responsible Several Critical Issues",
+      "Aberrations Tumor Mutational",
+      "Cancer Responsible",
+      "Lung Cancer Patients",
+      "Aberrations Tumor",
+      "Lung Cancer Including",
+      "Lung Cancer"
+    ]
+  },
+  {
+    "abstract_id": "31164383",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Neoplastic Transformation"
+    ]
+  },
+  {
+    "abstract_id": "36779536",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Colorectal Cancer",
+      "Metastatic Colorectal",
+      "Us Cancer Clinics",
+      "Colorectal Cancer Mcrc",
+      "280 Us Cancer"
+    ]
+  },
+  {
+    "abstract_id": "31558473",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Cancer Dtc",
+      "Relevant Tumor Mutations Braf",
+      "Or Metastatic Progressive",
+      "Relevant Tumor Mutations",
+      "Thyroid Cancer Dtc",
+      "Tumor Response"
+    ]
+  },
+  {
+    "abstract_id": "30880225",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Tumor Parenchyma",
+      "Tumor Vs Non -",
+      "Hepatocellular Carcinoma Leading",
+      "Tumor Bearing Mice Hcc Cells",
+      "Antitumor Effect",
+      "Potent Antitumor Effect",
+      "Hepatocarcinogenesis Indicating",
+      "Between Tumor Expression",
+      "Tumor Vs",
+      "Cancer Genome",
+      "Been Established Between Epigenetic Alterations And Hepatocarcinogenesis Indicating That Epigenetic Inhibition May Have",
+      "Hepatocellular Carcinoma Progression",
+      "Alterations Aberrant Expression And Correlation Between Tumor Expression And Poor Patient Prognosis Epigenetic Enzymes",
+      "Hepatocellular Carcinoma",
+      "Hepatocellular Carcinoma Hcc"
+    ]
+  },
+  {
+    "abstract_id": "31427547",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Breast Carcinoma Tnbc",
+      "Invasive Carcinoma Subtypes",
+      "Medullary Carcinomas Sixty-Seven",
+      "This Cancer",
+      "Invasive Carcinomas Nst N",
+      "Invasive Carcinomas Nst",
+      "Cell Carcinoma N1",
+      "Metaplastic Carcinoma N6",
+      "Breast Carcinoma Triple",
+      "Cancer And Hence",
+      "Carcinomas No",
+      "Carcinoma N",
+      "Carcinoma Tnbc",
+      "Carcinoma Subtypes",
+      "Invasive Carcinomas No",
+      "Breast Carcinoma That",
+      "Carcinoma N 1"
+    ]
+  },
+  {
+    "abstract_id": "31268928",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "480 Cancer-Associated Genes",
+      "Schwannian Tumor However",
+      "Pigmented Tumor",
+      "Schwannian Tumors Native",
+      "To Malignant Melanotic",
+      "Carney Complex And Mediate Melanotic Schwannoma Tumorigenesis Melanotic Schwannomas",
+      "Sites Tumors Arise",
+      "Sites Tumors Arise Sporadically",
+      "Tumor Harbored",
+      "That The Tumor Harbored",
+      "Schwannoma Tumorigenesis Melanotic",
+      "480 Cancer - Associated",
+      "Melanotic Schwannian Tumors"
+    ]
+  },
+  {
+    "abstract_id": "31241739",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Cancer Risk",
+      "Non-Cancerous Urothelium",
+      "Quantification Cancer Risk",
+      "Cancerous Tissue T",
+      "Feasibility Cancer",
+      "That Cancer Risk",
+      "Establish Permutation Cancer",
+      "Dna Methylation Quantification Cancer Risk Estimation Permutation",
+      "Corresponding Cancerous Tissue",
+      "Urothelial Carcinomas",
+      "Urothelial Carcinomas N",
+      "Field Cancerization",
+      "Precancerous Stage",
+      "Urothelial Carcinomas C",
+      "Cancerous Urothelium Without"
+    ]
+  },
+  {
+    "abstract_id": "36921335",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Breast Cancer",
+      "Breast Cancer One",
+      "I-Overexpressing Metastatic Breast",
+      "Metastatic Breast",
+      "Breast Cancer Were",
+      "I - Overexpressing Metastatic Breast",
+      "Cancer One",
+      "I - Overexpressing Metastatic Breast Cancer"
+    ]
+  },
+  {
+    "abstract_id": "30935717",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Mutated Endometrial Cancer",
+      "Endometrial Cancer Discuss",
+      "Mutated Carcinomas",
+      "Endometrial Cancer While",
+      "Pole-Mutated Carcinomas Are",
+      "Endometrial Cancer"
+    ]
+  },
+  {
+    "abstract_id": "31596728",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Mtor Inhibitors Treatment And Provide An Example Translation Cancer Classification",
+      "Cancer Patients",
+      "Colon Cancer Patients",
+      "Cancer Classification",
+      "Colon Cancer",
+      "Are Robust Colon Cancer",
+      "Colon Cancer Subgroups",
+      "Colon Cancer Cell",
+      "Cancer Cell",
+      "Colon Cancer Classification",
+      "Colon Cancer Cells"
+    ]
+  },
+  {
+    "abstract_id": "31103629",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Pancreatic Cancer Patients",
+      "Tumor - Suppressor",
+      "Ductal Adenocarcinoma Pdac",
+      "Pancreatic Ductal Adenocarcinoma",
+      "Gemcitabine Sensitive Pancreatic Cancer"
+    ]
+  },
+  {
+    "abstract_id": "31100235",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Prostate Cancer",
+      "Prostate Cancer Cspca"
+    ]
+  },
+  {
+    "abstract_id": "31492174",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Midline Carcinoma",
+      "Nut Midline Carcinoma Our Case Is",
+      "Erentiated Squamous Cell Carcinoma The Left",
+      "Midline Carcinoma Our",
+      "Nut Midline Carcinoma Usually Very Aggressive",
+      "After Metastatic Disease",
+      "Months After Metastatic Disease Diagnosed",
+      "Cell Carcinoma",
+      "Brazilian Case Nut Midline Carcinoma Brd4 -",
+      "Midline Carcinoma Is",
+      "Tumor Nuclei",
+      "Cell Carcinoma Which"
+    ]
+  },
+  {
+    "abstract_id": "30897307",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Thyroid Cancer",
+      "Thyroid Cancer And 2 Cases",
+      "Stomach Cancer",
+      "Brain Cancer 4",
+      "Familial Adenomatous Polyposis",
+      "Adenomatous Polyposis",
+      "Cancer Which",
+      "Gene Adenomatous Polyposis",
+      "Desmoids Tumors 10",
+      "Colorectal Cancer",
+      "Colorectal Cancer 1",
+      "Tumor Suppressor Gene Adenomatous",
+      "Tumor Suppressor",
+      "Stomach Cancer The Extra -"
+    ]
+  },
+  {
+    "abstract_id": "31053248",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Tumors Originating",
+      "Neuroendocrine Tumors Net",
+      "Neuroendocrine Tumors Net Represent A Heterogeneous Group Tumors Originating From",
+      "Endocrine Tumors",
+      "Low Tumor Burden",
+      "Low Tumor"
+    ]
+  },
+  {
+    "abstract_id": "36751054",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "To Tumors Located",
+      "Brain Tumors We",
+      "Midline Glioma Is",
+      "Midline Gliomas Different",
+      "Midline Gliomas",
+      "Cord Glioma Including",
+      "- Altered Spinal Cord Glioma Still Largely Elusive Thus",
+      "Cord Glioma",
+      "Tumors Located The Brain Stem",
+      "Diffuse Glioma Were",
+      "- Mutant Brain Tumors",
+      "Diffuse Glioma Diagnosed As",
+      "Pediatric-Type Tumor Without",
+      "That Glioblastoma Histological",
+      "Type Tumor Without Efficacious Treatments",
+      "Retinoblastoma Protein",
+      "Glioma With",
+      "Showed That Glioblastoma",
+      "Cord Glioma Are"
+    ]
+  },
+  {
+    "abstract_id": "30940785",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Atypical Tumor Cells",
+      "Metastasis Sometimes Occur",
+      "To Metastasis After",
+      "Cancerous Peritonitis",
+      "Unohistochemically Tumor Cells",
+      "Distant Metastasis Sometimes",
+      "Rapid Metastasis To",
+      "Intracranial Tumor Recurrent",
+      "Rare Malignancy",
+      "Splenic Tumor Was",
+      "Single Tumor Entity",
+      "Tumor Recurrent Disease"
+    ]
+  },
+  {
+    "abstract_id": "36927893",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Decline Mobility Negatively Affects Adl And Qol The Management Locomotive Organs Cancer Patients Crucial",
+      "Adl And Qol Cancer Patients",
+      "Age Cancer Type",
+      "Oncept Preventing And Improving Locomotive Syndrome Longer And Healthier Life Cancer Patients",
+      "Bone Metastasis Surgery",
+      "Type And Tumor",
+      "Longer Cancer",
+      "Cancer Therapy",
+      "Tumor Stage",
+      "Lifeqolof Cancer Patients",
+      "Cancer Patients",
+      "Cancer Patients Expected To",
+      "Diversity Cancer Therapy The Corporation Between Oncologists And Orthopaedic Surgeons Indispensable",
+      "To Advancement Cancer Therapy An Increasing",
+      "Quality Life Qol Cancer Patients Has Become Much More Important Than Ever",
+      "Metastasis A Major Cause Locomotive Syndrome",
+      "Bone Metastasis As",
+      "Better Adl And Qol Cancer Patients Pathological Fractures Spinal Instability And Spinal Injury Cause Not Only Severe Pain And Massive Functional Impairment Patients But Increased Nursing Care Burden To",
+      "Because Cancer Therapy"
+    ]
+  },
+  {
+    "abstract_id": "31119365",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Is A Tumor Biomarker Which Covers A Broad",
+      "Carcinomas Msi",
+      "The Individual Tumor Entities These",
+      "Advanced Carcinomas Msi",
+      "Cancer Predisposition",
+      "Tumor Biomarker",
+      "Gastric Cancer",
+      "Marker Cancer",
+      "Individual Tumor Entities",
+      "Tumor Pathology"
+    ]
+  },
+  {
+    "abstract_id": "30923916",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Cancer Patients",
+      "Tumorigenesis Reducing Sensitivity To",
+      "Colorectal Cancer",
+      "Colorectal Cancer Genetic",
+      "Colorectal Cancer Patients",
+      "Colon Cancer Cells And Inhibited Proliferation After",
+      "Putative Oncogene",
+      "Colorectal Cancer Methods",
+      "Colon Cancer Cells"
+    ]
+  },
+  {
+    "abstract_id": "30955977",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Cooperative Oncology Group",
+      "Or Metastatic Non-Small-Cell",
+      "Oncology Group Ecog",
+      "Or Metastatic",
+      "Lung Cancer Without",
+      "Untreated Metastatic Non-Small-Cell",
+      "Metastatic Non - Small - Cell Lung Cancer A Programmed Death",
+      "Cell Lung Cancer Without",
+      "Lung Cancer",
+      "Non - Small - Cell Lung Cancer Without"
+    ]
+  },
+  {
+    "abstract_id": "31623866",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "As Tumor Promoter",
+      "Between Tumor",
+      "Support Leukemia Growth",
+      "Pathogenesis Leukemia We Provide Evidence",
+      "Leukemia Glycogen",
+      "Hematological Malignancy Pp2A",
+      "Hematological Malignancy",
+      "Leukemia We",
+      "Leukemia Patients This Review",
+      "Myeloid Leukemia Aml",
+      "Hematological Malignancy Pp2A-Activating",
+      "Leukemia Patients",
+      "Leukemia Cells",
+      "Between Tumor Cells",
+      "Tumor Suppressor",
+      "The Leukemia Cells Communicate",
+      "Regulation Hematological Malignancy"
+    ]
+  },
+  {
+    "abstract_id": "31105705",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "High-Risk Malignancy Involved",
+      "Lymphocytic Leukemia All",
+      "Malignancy Involved"
+    ]
+  },
+  {
+    "abstract_id": "31341365",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Liver Metastasis Response",
+      "Liver Metastasis",
+      "Carcinoma Could Predict The Replacement Liver Metastasis And Worse Overall Survival P 0 05",
+      "Primary Carcinoma Could",
+      "Liver Metastasis Methods",
+      "Desmoplastic Liver Metastasis",
+      "Cancer Has Not",
+      "Metastasis And Better Overall Survival Whereas",
+      "Primary Cancer Has",
+      "Primary Carcinoma",
+      "Colorectal Carcinoma Crc",
+      "Liver Metastasis Are",
+      "Liver Metastasis Associated Patients Prognosis And Response",
+      "Liver Metastasis Were",
+      "Antiangiogenic Therapy However The Relationship Between Hgps Liver Metastasis And Clinicopathological",
+      "Liver Metastasis Clinical",
+      "Low Tumor Budding",
+      "Metastasis Response",
+      "Low Tumor Budding Score",
+      "Primary Tumor Expanding",
+      "Liver Metastasis Showed",
+      "Results The Primary Tumor"
+    ]
+  },
+  {
+    "abstract_id": "31043608",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "To Oligodendroglioma",
+      "Brain Cancer Oligodendroglioma",
+      "Despite Its Cancer Link",
+      "Neurodevelopment And Oligodendroglioma And Suggest That Its Loss",
+      "Patient - Derived Oligodendroglioma Cells Cic Re - Expression Or Etv5 Blockade",
+      "Lineage Bias Proliferation Self - Renewal And Tumorigenicity Our Results Identify",
+      "Cancer Oligodendroglioma Despite",
+      "The Brain Cancer",
+      "Oligodendroglioma P",
+      "Its Cancer Link",
+      "-Derived Oligodendroglioma Cells",
+      "Tumorigenicity Our"
+    ]
+  },
+  {
+    "abstract_id": "30926971",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Risk Leukemia",
+      "Erythroid Leukemia Ael",
+      "Erythroid Leukemia",
+      "Myeloid Leukemia We",
+      "High-Risk Leukemia",
+      "Leukemia We"
+    ]
+  },
+  {
+    "abstract_id": "31679010",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Ewing Sarcoma",
+      "Bcor - Ccnb3 Sarcoma",
+      "Undifferentiated Tumor That",
+      "Bcor-Ccnb3 Sarcoma Bcs",
+      "Ewing Sarcoma But",
+      "Cell Tumors Some",
+      "An Undifferentiated Tumor That Has Some"
+    ]
+  },
+  {
+    "abstract_id": "31481959",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Lymphoma Were",
+      "S Macroglobulinemia And Lymphoma Excluded The Igm Levels Then",
+      "Multiple Myeloma Waldenstroms",
+      "Secreting Multiple Myeloma"
+    ]
+  },
+  {
+    "abstract_id": "30896620",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Rectal Cancer 2",
+      "The Primary Tumor",
+      "Colorectal Cancer Crc",
+      "Colon Cancer Twice",
+      "Primary Tumor Pt",
+      "Cancer 2"
+    ]
+  },
+  {
+    "abstract_id": "36572322",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "128 Cancer N"
+    ]
+  },
+  {
+    "abstract_id": "30963570",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Primary Tumor Location",
+      "Raf Murine Sarcoma Viral",
+      "Oncogene Homolog B",
+      "Colorectal Cancer Crc",
+      "Primary Tumor Locations",
+      "Metastatic Colorectal",
+      "Viral Oncogene Homolog",
+      "Right - Sided Primary Tumor Location",
+      "Murine Sarcoma Viral",
+      "Were A Left - Sided Primary Tumor",
+      "Metastatic Colorectal Cancer"
+    ]
+  },
+  {
+    "abstract_id": "31191019",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Lymphoma Tumor-Associated Macropha",
+      "Lymphoma Cells Could Promote",
+      "That Lymphoma - Derived",
+      "Lymphoma Cell Lines",
+      "Lymphoma Cells",
+      "The Tumor -",
+      "B-Cell Lymphoma Dlbcl",
+      "Lymphoma Cell",
+      "Lymphoma Dlbcl",
+      "Tumor-Promoting Mechanism",
+      "Type Promote Tumor Progression And Drug Resistance The Clinical Outcome Patients High Neuron",
+      "That Lymphoma-Derived Exosomes",
+      "Malignant And Heterogeneous",
+      "Non-Hodgkins Lymphoma Tumor-Associated",
+      "Lymphoma Therapy",
+      "Ability Macrophage Thereby Consequently Promoting The Progression Lymphoma",
+      "Hodgkin S Lymphoma",
+      "Promote Tumor Progression"
+    ]
+  },
+  {
+    "abstract_id": "31371806",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Neoplasms Occasionally Occur",
+      "Myeloid Neoplasm Age",
+      "Myeloid Neoplasm",
+      "Myeloid Neoplasms Seems",
+      "Myeloid Neoplasm Suggesting",
+      "Eloid Neoplasm Suggesting That",
+      "Myeloid Neoplasms Occasionally",
+      "Myeloid Leukemia All",
+      "Myeloproliferative Neoplasm One"
+    ]
+  },
+  {
+    "abstract_id": "36931075",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Non - Small Cell Lung Cancer",
+      "Lung Cancer Nsclc",
+      "Anaplastic Lymphoma Kinase"
+    ]
+  },
+  {
+    "abstract_id": "36210487",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Metastatic Castrate",
+      "Metastatic Castrate-Resistant",
+      "Metastatic Prostate",
+      "Prostate Cancer Mcrpc",
+      "Metastatic Prostate Cancer We Sought To",
+      "Prostate Cancer We",
+      "Prostate Cancer Death"
+    ]
+  },
+  {
+    "abstract_id": "31366136",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Colorectal Cancer Crc",
+      "Optimal Cancer Prevention"
+    ]
+  },
+  {
+    "abstract_id": "31292797",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Skin Tumors Showed",
+      "Sebaceous And Visceral Tumors",
+      "Internal Organs We Suggest That The Definition Tumor Associations That Often Observed Variants Inherited Tumor Syndromes Such Mts Should Be",
+      "Sebaceous Adenomascarcinomas",
+      "Inherited Tumor Syndromes",
+      "Skin Tumors Including",
+      "Visceral Tumors",
+      "Sebaceous Tumors Especially",
+      "Tumor Associations",
+      "The Underlying Molecular Bases Addition The Presence Multiple Sebaceous Tumors Especiall",
+      "Absence Typical Ls Visceral Tumors"
+    ]
+  },
+  {
+    "abstract_id": "30895378",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Cell Sarcomas Urcs",
+      "Ewing Sarcoma Ews",
+      "Undifferentiated Round Cell Sarcomas",
+      "Sarcomas Including 7 Angiomatoid",
+      "Cell Tumors 10",
+      "Latter Tumors Really",
+      "Cell Sarcomas",
+      "Myxoid Chondrosarcomas",
+      "Clear Cell Sarcomas",
+      "Whether The Latter Tumors",
+      "These Sarcomas Should",
+      "Tissue Sarcomas Including",
+      "Sarcomas Should Considered Separat",
+      "Myxoid Liposarcomas Results"
+    ]
+  },
+  {
+    "abstract_id": "31647020",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Tumors Related Clinical Research",
+      "Gastric Cancer All",
+      "Stromal Tumors",
+      "Smaller Tumor Was",
+      "Solid Tumors",
+      "Tumor Cells Contained",
+      "Larger Tumor Consisted Spindle Cells Surrounded",
+      "Stromal Tumors Gists",
+      "Gastric Tumors Related",
+      "Larger Tumor Consisted",
+      "Mesenchymal Tumor",
+      "Cancer All",
+      "Gist Tumor Cells",
+      "Tumor Cells",
+      "Larger Tumor Was"
+    ]
+  },
+  {
+    "abstract_id": "31095042",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Malignant Melanoma Patients Malignant Melanoma Samples From",
+      "Patients Malignant Melanoma",
+      "Malignant Melanoma Samples",
+      "Malignant Melanoma Patients",
+      "Tumor - Infiltrating",
+      "Malignant Melanoma",
+      "Cd3 Tumor-Infiltrating Lympho"
+    ]
+  },
+  {
+    "abstract_id": "31240453",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Round - Cell Sarcomas Caused",
+      "Malignant Tumors That",
+      "S Sarcoma Ewing",
+      "Like Sarcomas E",
+      "Ewings Sarcoma Ewing-Like",
+      "Round-Cell Sarcomas Are",
+      "Alveolar Rhabdomyosarcomas",
+      "Round-Cell Tumors Dsrcts",
+      "These Entities Differ Their Tumor Genetics Which I",
+      "Represent Highly Malignant Tumors That Occur Predominantly",
+      "Round-Cell Sarcomas Represent",
+      "Positive Sarcomas Desmoplastic",
+      "Their Tumor Genetics",
+      "Sarcomas These",
+      "Alveolar Rhabdomyosarcomas Arms",
+      "Tumors Dsrcts",
+      "Sarcoma Ewing-Like",
+      "Round - Cell Sarcomas",
+      "Highly Malignant Tumors"
+    ]
+  },
+  {
+    "abstract_id": "30884810",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Thyroid Cancer",
+      "13 Non-Neoplastic Thyroid",
+      "Non-Malignant Cases",
+      "Thyroid Carcinomas Pdtcatc",
+      "Malignant Cases Nt",
+      "Thyroid Carcinomas Wdtc",
+      "Neoplastic Thyroid Nt"
+    ]
+  },
+  {
+    "abstract_id": "31163629",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Lung Adenocarcinoma",
+      "Lung Adenocarcinoma Pge-Mum",
+      "Carcinoma Embryonic",
+      "M Metastasis Were",
+      "Lung Adenocarcinoma Objectives",
+      "Tumor Burden",
+      "T Tumor N",
+      "Lung Cancer Stage",
+      "Lung Adenocarcinoma N",
+      "M Metastasis",
+      "Adenocarcinoma N",
+      "Lung Adenocarcinoma Indicates",
+      "Cancer Progression",
+      "Systemic Tumor Burden",
+      "Cancer Stage",
+      "Lung Adenocarcinoma Methods"
+    ]
+  },
+  {
+    "abstract_id": "36586323",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Them Tumor Volume",
+      "Nodal Metastasis Pn",
+      "Cell Carcinoma Oscc",
+      "Tumor Staging",
+      "Metastasis Pn",
+      "Tumor - Host - And Environment - Related",
+      "Oscc Tumor- Host-",
+      "Oral Squamous Cell Carcinoma"
+    ]
+  },
+  {
+    "abstract_id": "31296311",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Any Cancer Further",
+      "Any Cancer",
+      "Breast Cancer Onset",
+      "Phenotype Earlier Age First Breast Cancer Onset",
+      "Cancer Phenotypes",
+      "Multi-Cancer Predisposition"
+    ]
+  },
+  {
+    "abstract_id": "30910249",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Tumor Specimens",
+      "Endometrial Cancers",
+      "Available Tumor Specimens",
+      "Archival Tumor Specimens",
+      "Endometrial Cancer Cases",
+      "I Grade 1 Endometrioid Endometrial Cancer One Institution",
+      "Mss Tumors Msi-H",
+      "Endometrial Cancer At",
+      "Mss Tumors",
+      "Endometrial Cancers Have",
+      "Grade 1 Endometrial Cancers",
+      "Recurrent Disease And Available Tumor Specimens Identified",
+      "Type Tumors",
+      "Type Tumors Were"
+    ]
+  },
+  {
+    "abstract_id": "31041634",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Aggressive Tumors",
+      "Cardiac Malignant Peripheral",
+      "Sheath Tumor Without",
+      "Heart-Involving Tumor Diagnosed",
+      "Sheath Tumor A Rare",
+      "Sheath Tumors Are",
+      "Sheath Tumor",
+      "Tumor But Died 14",
+      "Tumors Are",
+      "Tumor But",
+      "Malignant Peripheral",
+      "Rare Sarcomas",
+      "Cardiac Sarcoma 9 X",
+      "Heart - Involving Tumor Diagnosed",
+      "Cardiac Sarcoma"
+    ]
+  },
+  {
+    "abstract_id": "30942566",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Cancer Cells"
+    ]
+  },
+  {
+    "abstract_id": "36380563",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Among Advanced Non - Small - Cell Lung Cancer",
+      "Zhejiang Cancer Hospital",
+      "Lung Cancer Nsclc",
+      "Cancer Hospital Ultimately",
+      "Lung Cancer Patients"
+    ]
+  },
+  {
+    "abstract_id": "31092450",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Cancer Crc",
+      "Metastasis Moreover",
+      "Aggressiveness And Metastasis",
+      "Tumor Cell Proliferation",
+      "Colorectal Cancer Crc",
+      "Tumor Cell",
+      "Resected Tumor Specimens",
+      "Human Cancers However",
+      "Proliferation Tumor Aggressiveness"
+    ]
+  },
+  {
+    "abstract_id": "31177126",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Peritoneal Carcinomatosis",
+      "Carcinoma Hgsc",
+      "Tumor Protein",
+      "Ovarian Carcinoma Cases",
+      "Serous Carcinoma Hgsc",
+      "Tumor Cells",
+      "Ovarian Carcinoma Somatic",
+      "Serum Tumor Markers",
+      "Ovarian Carcinoma",
+      "Tumor Protein 53 Tp53",
+      "Tumor Markers"
+    ]
+  },
+  {
+    "abstract_id": "36930129",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Part Cancer",
+      "Cancer Genome",
+      "Rectum Adenocarcinoma Defined",
+      "Adenocarcinoma Defined 2",
+      "Cancer Initiation",
+      "Than Age Gender And Tumor Stage",
+      "Cancer Research",
+      "Cancer Initiation And Progression",
+      "Tumor Microenvironment",
+      "Rectum Adenocarcinoma Have",
+      "Tumor Stage"
+    ]
+  },
+  {
+    "abstract_id": "31571071",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Breast Cancers Conclusions Erbeta",
+      "Breast Cancers",
+      "Breast Cancers Use",
+      "East Cancers Use These",
+      "Or Malignant States",
+      "Benign Or Malignant States",
+      "Normal And Malignant Breast Tissues",
+      "Breast Cancers Conclusions",
+      "Breast Carcinoma Further",
+      "Malignant Breast",
+      "Breast Cancers Further"
+    ]
+  },
+  {
+    "abstract_id": "31335885",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Chronic Lymphocytic Leukemia",
+      "Lymphocytic Leukemia Cll"
+    ]
+  },
+  {
+    "abstract_id": "36841040",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Ovarian Carcinoma Lgsoc",
+      "Tumor Growth",
+      "Ovarian Carcinogenesis",
+      "Ovarian Carcinoma Oc",
+      "Tumor Histology",
+      "Control Tumor Growth",
+      "Ovarian Carcinogenesis Low-Grade"
+    ]
+  },
+  {
+    "abstract_id": "31048353",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Leukemia Cmml",
+      "Acute Leukemia Over",
+      "Myelomonocytic Leukemia Cmml",
+      "Myeloid Neoplasm Characterized"
+    ]
+  },
+  {
+    "abstract_id": "31243107",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Medullary And Mucinous Colorectal Carcinoma",
+      "Mucinous Adenocarcinoma",
+      "Medullary Carcinoma",
+      "Component This Tumor Had",
+      "Colorectal Carcinoma",
+      "Colorectal Carcinoma Immunohistochemist",
+      "Medullarymucinous Adenocarcinoma",
+      "Showed A Tumor",
+      "This Tumor Had",
+      "Llarymucinous Adenocarcinoma",
+      "Carcinoma The Colon"
+    ]
+  },
+  {
+    "abstract_id": "36738086",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Lymphoblastic Leukemias",
+      "Leukemia All Patients",
+      "B - Lineage Acute Lymphoblastic Leukemia",
+      "Lymphoblastic Leukemia Is",
+      "Lymphoblastic Leukemia All"
+    ]
+  },
+  {
+    "abstract_id": "31215130",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Myofibroblastic Tumor Imt",
+      "The Tumor",
+      "Some Tumor Cells",
+      "Anaplastic Lymphoma Kinase",
+      "Accumulated Lipid Droplets Some Tumor",
+      "Cell Tumor May",
+      "Myofibroblastic Tumor Imt Included The Differential Diagnoses",
+      "Cell Tumor",
+      "-Differentiated Liposarcoma",
+      "Tumor Cells",
+      "But Well - Differentiated Liposarcoma And Inflammatory"
+    ]
+  },
+  {
+    "abstract_id": "31479144",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Breast Cancer And At",
+      "Breast Cancer",
+      "Cancer Death",
+      "Breast Cancer Compared Women Other Races",
+      "Nonskin Cancer Among",
+      "Breast Cancer Expected",
+      "Breast Cancer Expected To",
+      "K Breast Cancer Larger",
+      "Ductal Carcinoma",
+      "Lobular Carcinoma",
+      "Breast Cancer As",
+      "Cause Cancer",
+      "Breast Cancer Is",
+      "Breast Cancer At",
+      "Breast Cancer Or",
+      "Breast Cancer Well Evidence On",
+      "Breast Cancer Conclusions",
+      "Breast Cancer D",
+      "Cancer Among",
+      "Current Or Previous Diagnosis Breast Cancer Or Ductal Carcinoma",
+      "Breast Cancer Compared",
+      "Breast Cancer Evidence",
+      "Breast Cancer Are",
+      "Carcinoma Situ Findings The Usp",
+      "Breast Cancer The Uspstf Found Convincing Evidence",
+      "Breast Cancer The Uspstf Found That The Benefits"
+    ]
+  },
+  {
+    "abstract_id": "31181727",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "To Metastatic Castration",
+      "Prostate Cancer Pca",
+      "Metastatic Pca",
+      "Signaling Networks Primary Pca Changes Into Metastatic Crpc Key",
+      "To Metastatic Castration-Resistan",
+      "Into Metastatic Crpc"
+    ]
+  },
+  {
+    "abstract_id": "31182807",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Maturation And Activation Nk Cells Deletion Otub1 Profoundly Enhances Anticancer Immunity Unleashing",
+      "Cancer Which",
+      "Enhances Anticancer Immunity",
+      "Pathogens And Cancer Which Rely Interleukin"
+    ]
+  },
+  {
+    "abstract_id": "31231679",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Her2 - Breast Cancer Against The Treatment Outcomes",
+      "Patients Metastatic Hr",
+      "Breast Cancer",
+      "Her2 - Breast Cancer Especially The Absence Mutated Esr1",
+      "Metastatic Hormone",
+      "Breast Cancer To",
+      "Metastatic Hrher2-",
+      "Breast Cancer Against",
+      "Metastatic Samples",
+      "Metastatic Hormone Receptor - Positive And Her2 - Negative Hr Her2 -",
+      "Breast Cancer Especially"
+    ]
+  },
+  {
+    "abstract_id": "31110352",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "To Cancer",
+      "To Cancer-Associated Transloc"
+    ]
+  },
+  {
+    "abstract_id": "31355228",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Myeloid Leukemia Aml",
+      "Leukemia Aml",
+      "Cancer Genome",
+      "Highly Heterogenous Hematological Malignancy And Its Prognostication",
+      "Hematological Malignancy",
+      "We Screened The Cancer Genome"
+    ]
+  },
+  {
+    "abstract_id": "31407494",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Lung Cancer Remain Unsatisfactorily",
+      "Lung Adenocarcinoma",
+      "Lung Cancer",
+      "Lung Cancer Remain",
+      "Processes Associated Lung Cancer And Drug Resistance",
+      "Lung Adenocarcinoma Luad"
+    ]
+  },
+  {
+    "abstract_id": "30904095",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "- 100 Adenomas",
+      "Familial Adenomatous",
+      "Cancer Women",
+      "Familial Adenomatous Polyposis",
+      "100 Adenomas But",
+      "Common Cancer",
+      "10-100 Adenomas",
+      "100 Adenomas",
+      "Colorectal Carcinoma Crc"
+    ]
+  },
+  {
+    "abstract_id": "31055940",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Familial Adenomatous",
+      "Colorectal Cancer Epidemiological",
+      "Familial Adenomatous Polyposis"
+    ]
+  },
+  {
+    "abstract_id": "31351510",
+    "data_source": "validation",
+    "extracted_diseases": [
+      "Benign Pedunculated Neoplasms",
+      "Malignant Dermatoses",
+      "Cell Carcinoma That",
+      "Clinician Differentiate This Entity Other Benign And Malignant Dermatoses",
+      "These Tumors Histopathologic Characteristics Found",
+      "Common Benign Neoplasms Found",
+      "Benign Neoplasms Found",
+      "Benign Neoplasms Such As",
+      "Fep A Rare Variant Basal Cell Carcinoma That",
+      "These Tumors Histopathologic",
+      "Polypoid Tumors",
+      "Benign Neoplasms Such",
+      "Pedunculated Neoplasms Frequently"
+    ]
+  }
+]
